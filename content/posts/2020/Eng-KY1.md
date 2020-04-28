@@ -22,3 +22,14 @@ draft: false
 ### 5
 **Witness might be encouraged to exaggerate their stories in court to ____ guilt verdicts. (assure/ ensure)**       
 + **assure** 后一般接**人**，常用 **assure sb. of sth.** 的结构，此处应选择 **ensure**
+
+### 6
+**connotation** n. 含义，内涵       
+**incorporate** v. 包含，体现   
+**impoverished** a. 赤贫的；贫瘠的  
+**get round/around to** 抽出时间来做（或考虑）      
+**detrimental** a. 不利的；有害的       
+**mergers and acquisitions** 并购       
+**cling-film** n. 保鲜膜        
+**thrift** n. 节俭      
+**backward regions** 落后地区   
