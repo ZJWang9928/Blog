@@ -75,3 +75,4 @@ draft: false
 ![67](/images/2020/01/wallpaper/67.jpg)
 ![68](/images/2020/01/wallpaper/68.jpg)
 ![69](/images/2020/01/wallpaper/69.jpg)
+![70](/images/2020/01/wallpaper/70.png)
