@@ -33,3 +33,5 @@ draft: false
 **cling-film** n. 保鲜膜        
 **thrift** n. 节俭      
 **backward regions** 落后地区   
+**periodical** n. 期刊，杂志        
+**in the wake of** 随……之后而来     
