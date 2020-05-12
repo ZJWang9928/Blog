@@ -14,10 +14,10 @@ draft: false
 **lay down** 1.中断；辞职；放弃 2.规定；制订（条例或规则）      
 
 ### 3
-**be in safe hands (with sb.)** 在可靠的人手中；安然无恙
+**be in safe hands (with sb.)** 在可靠的人手中；安然无恙        
 
 ### 4
-**be said to have done sth.** 据说做过某事
+**be said to have done sth.** 据说做过某事      
 
 ### 5
 **Witness might be encouraged to exaggerate their stories in court to ____ guilt verdicts. (assure/ ensure)**       
@@ -35,3 +35,6 @@ draft: false
 **backward regions** 落后地区   
 **periodical** n. 期刊，杂志        
 **in the wake of** 随……之后而来     
+**state of mind** 心态       
+**formulate** v. 阐述；表达；揭示      
+**entrenched**  a. 确立的，不太可能改变的       
