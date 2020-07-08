@@ -7,34 +7,55 @@ draft: false
 ---
 
 ### 1
-**Lord Irvine said he ____ with a committee report this year.... (sided / agreed)**     
+**Lord Irvine said he ____ with a committee report this year.... (sided / agreed)**  
 + **sided with** 一般接**人**，故此处选择 **agreed**
 
 ### 2
-**lay down** 1.中断；辞职；放弃 2.规定；制订（条例或规则）      
+**lay down** 1.中断；辞职；放弃 2.规定；制订（条例或规则）  
 
 ### 3
-**be in safe hands (with sb.)** 在可靠的人手中；安然无恙        
+**be in safe hands (with sb.)** 在可靠的人手中；安然无恙  
 
 ### 4
-**be said to have done sth.** 据说做过某事      
+**be said to have done sth.** 据说做过某事  
 
 ### 5
-**Witness might be encouraged to exaggerate their stories in court to ____ guilt verdicts. (assure/ ensure)**       
+**Witness might be encouraged to exaggerate their stories in court to ____ guilt verdicts. (assure/ ensure)**  
 + **assure** 后一般接**人**，常用 **assure sb. of sth.** 的结构，此处应选择 **ensure**
 
 ### 6
-**connotation** n. 含义，内涵       
-**incorporate** v. 包含，体现   
+**connotation** n. 含义，内涵  
+**incorporate** v. 包含，体现  
 **impoverished** a. 赤贫的；贫瘠的  
-**get round/around to** 抽出时间来做（或考虑）      
-**detrimental** a. 不利的；有害的       
-**mergers and acquisitions** 并购       
-**cling-film** n. 保鲜膜        
-**thrift** n. 节俭      
-**backward regions** 落后地区   
-**periodical** n. 期刊，杂志        
-**in the wake of** 随……之后而来     
-**state of mind** 心态       
-**formulate** v. 阐述；表达；揭示      
-**entrenched**  a. 确立的，不太可能改变的       
+**get round/around to** 抽出时间来做（或考虑）  
+**detrimental** a. 不利的；有害的  
+**mergers and acquisitions** 并购  
+**cling-film** n. 保鲜膜  
+**thrift** n. 节俭  
+**backward regions** 落后地区  
+**periodical** n. 期刊，杂志  
+**in the wake of** 随……之后而来  
+**state of mind** 心态  
+**formulate** v. 阐述；表达；揭示  
+**entrenched**  a. 确立的，不太可能改变的  
+**tentative** a. （安排、协议等）不确定；暂定的  
+
+### 7
+in return **for** 作为回报，交换，反应  
+in reply to 作为答复（侧重对**询问**）  
+in response to  作为反应，答复（对某事的反应，to之后内容促使前句内容发生，含因果逻辑）  
+
+### 8
+**or else** 否则，要不然（or则纯粹表示并列）  
+**in turn** 强调一种连锁的因果反应  
+**line** n. (用单数)行业，活动的范围  
+**line of work** 行业  
+**thumb through** 匆匆翻阅，浏览  
+**the rot sets in** 情况开始出现毛病  
+**have a ZZZ** 呼呼大睡  
+**bite one's nail** 束手无策  
+**middle-brow** a. (常为贬义)（书籍、音乐、艺术等）品味一般的；平庸的  
+**carefree** a. 毫不担忧的  
+**frenzied** a. 狂热的  
+**silver lining** （不幸或失望中的）一线希望  
+**innate** a. 先天的，天生的  
