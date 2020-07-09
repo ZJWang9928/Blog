@@ -73,3 +73,9 @@ in response to  作为反应，答复（对某事的反应，to之后内容促�
 **prudent** a. 谨慎明智的  
 **aggravate** 使变得严重  
 **make a comparison** 指“比较发现相同或相异之处”；**pose a contrast** 指“对比表明差异”  
+**give notice of my resignation** 提出辞职  
+**vacate the position** 辞职  
+**social ethos** 社会风气  
+**filial piety** 孝道  
+**prerequisite** n. 先决条件  
+**shift/shirk/avoid/shuffle of responsibility** 推卸责任  
