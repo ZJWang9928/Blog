@@ -1,7 +1,7 @@
 ---
 title: "English Vocab Notes"
 date: 2020-01-29T23:32:23+08:00
-categories: ["English Learning"]
+categories: ["Language Learning"]
 tags: ["English"]
 draft: false
 ---

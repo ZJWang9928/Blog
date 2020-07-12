@@ -1,6 +1,6 @@
 ---
 title: "34 Posh English Words"
-categories: ["English Learning"]
+categories: ["Language Learning"]
 tags: ["English"]
 date: 2020-02-25T19:58:23+08:00
 draft: false
