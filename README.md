@@ -1,1 +1,3 @@
-Welcome to visit [My Blog](http://jonathanwayy.xyz/)  
+# My Blog
+
+Welcome to visit [My Blog](http://jonathanwayy.xyz/).  
