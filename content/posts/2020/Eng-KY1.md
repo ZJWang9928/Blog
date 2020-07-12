@@ -79,3 +79,21 @@ in response to  作为反应，答复（对某事的反应，to之后内容促�
 **filial piety** 孝道  
 **prerequisite** n. 先决条件  
 **shift/shirk/avoid/shuffle of responsibility** 推卸责任  
+
+### 10
+**turn around** 可以表达“好转”  
+**as sb. puts it** 正如某人所说  
+**manipulation** 操纵（侧重为了一己之私，含贬义）  
+**discourse** n. (严肃的)谈话，交谈  
+**unprecedented** a. 空前的  
+**seethe** v. 翻滚，涌动，翻腾  
+**seething anger** 涌动的怒火  
+**sandal** n. 凉鞋  
+**on good terms** 关系和睦  
+**in a row** 连续  
+**flagstone** n. （方形）石板  
+**deference** n. 顺从，尊重  
+**live off** 靠……为生  
+**phony** a. 假（冒）的，伪造的，欺骗的  
+**daffodil** n. 水仙  
+
