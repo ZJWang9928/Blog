@@ -97,3 +97,11 @@ in response to  作为反应，答复（对某事的反应，to之后内容促�
 **phony** a. 假（冒）的，伪造的，欺骗的  
 **daffodil** n. 水仙  
 
+### 11
+**conceive** v. 怀孕  
+**field** v. 处理，应付（问题或意见）  
+**elude** v. 难倒  
+**toil through** 艰难跋涉；历尽困苦做某事  
+**pink slip** 解聘通知书  
+**of all stripes** 各式各样的  
+**go astray** 丢失；被盗  
