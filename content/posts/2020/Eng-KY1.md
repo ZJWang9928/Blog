@@ -107,3 +107,7 @@ in response to  作为反应，答复（对某事的反应，to之后内容促�
 **go astray** 丢失；被盗  
 **fallout** n. 余波  
 **wholesale** a. 大批的；大规模的  
+
+### 12
+**subject sb. to sth.** 使遭受，经历  
+**career** n. 成就（僻义）  
