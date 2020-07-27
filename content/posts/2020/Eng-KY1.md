@@ -111,3 +111,8 @@ in response to  作为反应，答复（对某事的反应，to之后内容促�
 ### 12
 **subject sb. to sth.** 使遭受，经历  
 **career** n. 成就（僻义）  
+**diffuse** v. 减轻，缓解  
+**hybrid** n. （不同事物的）混合物  
+**by and large** 总的来说，大体上  
+**observe** v. 说，评论，评述  
+**Electoral College** 总统选举团  
