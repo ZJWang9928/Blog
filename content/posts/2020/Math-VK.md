@@ -1,7 +1,7 @@
 ---
 title: "考研数学复习杂笔记 -- 向量代数与空间解析几何"
 date: 2020-04-20T15:53:16+08:00
-categories: ["Math Preparation Notes"]
+categories: ["NJTU CST Learning Notes"]
 tags: ["notes", "math"]
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "考研英语复习笔记"
 date: 2020-04-27T15:27:53+08:00
-categories: ["Language Learning"]
+categories: ["NJTU CST Learning Notes"]
 tags: ["English", "notes"]
 draft: false
 ---

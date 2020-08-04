@@ -1,7 +1,7 @@
 ---
 title: "考研数学复习杂笔记 -- 多元函数微分学"
 date: 2020-04-20T16:19:26+08:00
-categories: ["Math Preparation Notes"]
+categories: ["NJTU CST Learning Notes"]
 tags: ["notes", "math"]
 draft: false
 ---

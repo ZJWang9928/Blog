@@ -1,7 +1,7 @@
 ---
 title: "考研数学复习杂笔记 -- 线性代数"
 date: 2020-05-12T21:46:35+08:00
-categories: ["Math Preparation Notes"]
+categories: ["NJTU CST Learning Notes"]
 tags: ["notes", "math"]
 draft: false
 ---
