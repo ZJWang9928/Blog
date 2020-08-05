@@ -2,7 +2,7 @@
 title: "KMP 算法笔记 - Next、Nextval数组求法、失配回退及复杂度"
 date: 2020-08-04T16:55:15+08:00
 categories: ["C/C++ And Algorithm"]
-tags: ["algorithm", "note", "kmp"]
+tags: ["algorithm", "notes", "kmp"]
 draft: false
 ---
 
