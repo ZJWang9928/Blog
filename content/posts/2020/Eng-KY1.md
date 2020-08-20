@@ -149,3 +149,9 @@ in response to  作为反应，答复（对某事的反应，to之后内容促�
 **beside the point** 无关紧要，与讨论的问题无关  
 **hardline** a. 强硬的，不妥协的  
 **clamp down** 镇压  
+
+### 16
+**vanity** n. 虚荣心  
+**get cracking on** 加快做某事的速度  
+**set off the row** 挑起争论  
+**Human nature being what it is, ...** 人性使然  
