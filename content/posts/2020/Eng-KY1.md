@@ -155,3 +155,6 @@ in response to  作为反应，答复（对某事的反应，to之后内容促�
 **get cracking on** 加快做某事的速度  
 **set off the row** 挑起争论  
 **Human nature being what it is, ...** 人性使然  
+**be tempted to** 禁不住……  
+**willfully** ad. 任性固执地  
+**to the letter** 丝毫不差；不折不扣  
