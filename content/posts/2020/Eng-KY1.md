@@ -158,3 +158,6 @@ in response to  作为反应，答复（对某事的反应，to之后内容促�
 **be tempted to** 禁不住……  
 **willfully** ad. 任性固执地  
 **to the letter** 丝毫不差；不折不扣  
+**excel in** 擅长于  
+**upfront** a. 预先的，预付的  
+**the bar** 法律界  
