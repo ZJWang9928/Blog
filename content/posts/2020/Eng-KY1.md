@@ -171,3 +171,9 @@ there is more **to** it 事情没那么简单
 **dearth** n. 缺乏，稀少  
 **drive one's point home** 彻底将观点阐释清楚  
 **conspire** v. 阴谋策划  
+**endorse** v. 赞同，支持  
+**enviable** a. 令人羡慕的  
+**rule out** 排除  
+**lenient** a. 宽大的，仁慈的  
+**bank on** 指望，依靠  
+**nostalgia** n. 怀旧之情  
