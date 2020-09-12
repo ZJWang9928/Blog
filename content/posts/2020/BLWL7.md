@@ -5,7 +5,7 @@ categories: ["Better Life With Linux"]
 tags: ["Manjaro", "Linux"]
 draft: false
 ---
-之前在新机子上装Manjaro KDE屡试未果，画面一直撕裂，最后没办法换了XFCE  
+就如在 [BLWL02](http://jonathanwayy.xyz/2020/blwl2/) 中所提到的，之前在新机子上装Manjaro KDE屡试未果，画面一直撕裂，最后没办法换了XFCE  
 XFCE倒确实顺风顺水没出什么幺蛾子，但是用习惯了KDE的华丽画风导致XFCE的扁平化风格怎么看怎么别扭  
 所以再次回过头尝试KDE  
 最终确实解决了问题  
