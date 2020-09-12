@@ -1,5 +1,5 @@
 ---
-title: "BLWL[32] Pyinstaller 打包时报错TypeError: an integer is required (got type bytes)"
+title: "BLWL[32] Pyinstaller 打包时报错 TypeError: an integer is required (got type bytes)"
 date: 2020-08-02T16:50:51+08:00
 categories: ["Better Life With Linux"]
 tags: ["python", "Linux", "pyinstall", "pip"]
@@ -41,7 +41,7 @@ TypeError: an integer is required (got type bytes)
 
 ## 解决方案
 
-报错的原因在于所使用的Pyinstaller是用`pip install pyinstall`安装的。  
+报错的原因在于所使用的 Pyinstaller 是用 `pip install pyinstall` 安装的。  
 
 改成
 

@@ -6,8 +6,8 @@ tags: ["Python"]
 draft: false
 ---
 
-iPython是一个很好用的交互式Python解释器，Manjaro前一次内核升级后系统Python升到了3.8，而Pytorch目前还只支持到Python3.7，因此配了conda，但是iPython默认调用的是系统Python，需要手动更改一下配置  
-先找到ipython位置
+iPython 是一个很好用的交互式 Python 解释器， Manjaro 前一次内核升级后系统 Python 升到了 3.8，而 Pytorch 目前还只支持到 Python3.7，因此配了 conda，但是 iPython 默认调用的是系统 Python，需要手动更改一下配置  
+先找到 ipython 位置
     
     > which ipython  
     /usr/bin/ipython # 这是我系统上的位置，根据具体系统可能不同 

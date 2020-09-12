@@ -6,12 +6,12 @@ tags: ["Manjaro", "Linux"]
 draft: false
 ---
 
-Edraw Max 的跨平台性使其成为了Visio很好的替代品  
-ArchLinux的AUR源里就有，直接  
+Edraw Max 的跨平台性使其成为了 Visio 很好的替代品  
+ArchLinux 的 AUR 源里就有，直接  
     
     yay edraw
     
-然后选择Edraw Max即可。  
+然后选择 Edraw Max 即可。  
     
 安装完成后还需要破解一下，这里提供两组  
     

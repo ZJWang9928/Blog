@@ -9,11 +9,11 @@ draft: false
 
 	sudo pacman -S fcitx-im fcitx-configtool fcitx-googlepinyin
 
-然后在用户根目录编辑.xprofile文件（没有就新建一个）
+然后在用户根目录编辑 .xprofile 文件（没有就新建一个）
 
 	vim ~/.xprofile
 
-若是刚装好的Manjaro上使用vim需要安装一下，pacman即可  
+若是刚装好的 Manjaro 上使用 vim 需要安装一下， pacman 即可  
 内容写：
 
 	export LC_ALL=zh_CN.UTF-8

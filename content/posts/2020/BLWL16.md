@@ -6,8 +6,8 @@ tags: ["Vim", "Linux"]
 draft: false
 ---
 
-Vimdiff是Vim自带的一个文件差异编辑器  
-启动vimdiff：
+Vimdiff 是 Vim 自带的一个文件差异编辑器  
+启动 vimdiff：
     
     vimdiff file1 file2
 

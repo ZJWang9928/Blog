@@ -6,7 +6,7 @@ tags: ["Manjaro", "Linux"]
 draft: false
 ---
 问题：  
-当使用clear命令时出现如下报错  
+当使用 clear 命令时出现如下报错  
    
         ~$ clear   
         terminals database is inaccessible   

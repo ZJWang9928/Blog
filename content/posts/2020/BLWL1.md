@@ -6,8 +6,8 @@ tags: ["Manjaro", "Linux"]
 draft: false
 ---
 ## Reason to use pacman
-+ Arch下简洁高效的包管理命令
-+ 享受AUR(Arch User Repository)，软件库相当庞大，无需像Debian系一样手动添加ppa源等
++ Arch 下简洁高效的包管理命令
++ 享受 AUR(Arch User Repository)，软件库相当庞大，无需像 Debian 系一样手动添加 ppa 源等
 
 ## Commonly Used Commands
 1. 安装软件

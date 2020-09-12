@@ -16,7 +16,7 @@ Please make sure that the kernel module `vmmon’ is loaded.
     > uname -r
     5.6.7-1-MANJARO
 
-### 2.安装对应的linux-headers
+### 2.安装对应的 linux-headers
     
     sudo pacman -S linux56-headers
 

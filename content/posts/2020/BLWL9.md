@@ -5,11 +5,11 @@ categories: ["Better Life With Linux"]
 tags: ["Manjaro", "Linux"]
 draft: false
 ---
-1.执行unzip命令，查看系统上是否有unzip，若有直接卸载  
+1.执行 unzip 命令，查看系统上是否有 unzip，若有直接卸载  
 
         yaourt -Rns unzip
 
-2.安装unzip-icon
+2.安装 unzip-icon
 
         yaourt unzip-icon
 
