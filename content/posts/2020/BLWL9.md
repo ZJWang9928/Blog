@@ -5,6 +5,9 @@ categories: ["Better Life With Linux"]
 tags: ["Manjaro", "Linux"]
 draft: false
 ---
+
+在 Linux 下使用 unzip 解压文件时，解压完毕的文件中若包含中文内容，可能会出现乱码的情况，本文提供一个可供参考的解决方案。  
+
 1.执行 unzip 命令，查看系统上是否有 unzip，若有直接卸载  
 
         yaourt -Rns unzip

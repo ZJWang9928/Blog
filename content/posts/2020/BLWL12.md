@@ -6,7 +6,10 @@ tags: ["Manjaro", "Linux"]
 draft: false
 ---
 
-Edraw Max 的跨平台性使其成为了 Visio 很好的替代品  
+在日常科研写论文的过程中，经常需要用到 Visio 之类的画图工具来绘制模型图。但是 Linux 环境下并不支持 Visio。  
+
+Edraw Max 的跨平台性使其成为了 Linux 下 Visio 很好的替代品。  
+
 ArchLinux 的 AUR 源里就有，直接  
     
     yay edraw
