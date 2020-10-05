@@ -3,7 +3,7 @@ title: "花书 阅读笔记"
 date: 2020-10-05T19:34:16+08:00
 categories: ["Alchemy Of CV"]
 tags: ["note", "book", "deep learning", "cv"]
-draft: true
+draft: false
 ---
 
 # Chapter 1
