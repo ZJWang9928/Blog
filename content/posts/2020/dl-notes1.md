@@ -1,5 +1,5 @@
 ---
-title: "炼丹杂笔记 -- 饱和激活函数"
+title: "炼丹杂记 -- 饱和激活函数"
 date: 2020-03-04T09:07:11+08:00
 categories: ["Alchemy Of CV"]
 tags: ["cv", "notes", "deep learning"]
