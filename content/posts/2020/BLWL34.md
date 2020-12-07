@@ -2,7 +2,7 @@
 title: "BLWL[34] Vim 设置背景透明"
 date: 2020-12-08T04:55:03+08:00
 categories: ["Better Life With Linux"]
-tags: ["Manjaro", "Linux"]
+tags: ["Vim", "Linux", "Notes"]
 draft: false
 ---
 
