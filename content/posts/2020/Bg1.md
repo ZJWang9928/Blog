@@ -1,5 +1,5 @@
 ---
-title: "壁纸分享"
+title: "壁纸分享[1]"
 date: 2020-01-26T11:35:21+08:00
 categories: ["Sharp Tools"]
 tags: ["linux", "wallpaper", "manjaro", "kde"]
@@ -16,16 +16,6 @@ draft: false
 ![8](/images/2020/01/wallpaper/8.jpg)
 ![9](/images/2020/01/wallpaper/9.jpg)
 ![10](/images/2020/01/wallpaper/10.jpg)
-![11](/images/2020/01/wallpaper/11.jpg)
-![12](/images/2020/01/wallpaper/12.jpg)
-![13](/images/2020/01/wallpaper/13.jpg)
-![14](/images/2020/01/wallpaper/14.jpg)
-![15](/images/2020/01/wallpaper/15.jpg)
-![16](/images/2020/01/wallpaper/16.jpg)
-![17](/images/2020/01/wallpaper/17.jpg)
-![18](/images/2020/01/wallpaper/18.jpg)
-![19](/images/2020/01/wallpaper/19.jpg)
-![20](/images/2020/01/wallpaper/20.jpg)
 ![21](/images/2020/01/wallpaper/21.jpg)
 ![22](/images/2020/01/wallpaper/22.jpg)
 ![23](/images/2020/01/wallpaper/23.jpg)
