@@ -9,5 +9,5 @@ draft: false
 Vim 通过 colorscheme 设置了主题后，通常背景会变成实色，想要让 Vim 的背景色跟随终端的透明度配置，在 .vimrc 文件中加入如下一行即可：  
 
 ```
-hi Normal ctermfg=252 ctermbg=none
+hi Normal ctermfg=255 ctermbg=none
 ```
