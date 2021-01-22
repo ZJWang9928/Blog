@@ -1,7 +1,7 @@
 ---
 title: "壁纸分享[9]"
 date: 2020-08-26T11:35:21+08:00
-categories: ["Sharp Tools"]
+categories: ["Awesome Wallpapers"]
 tags: ["linux", "wallpaper", "manjaro", "kde"]
 draft: false
 ---
