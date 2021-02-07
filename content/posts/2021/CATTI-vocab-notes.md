@@ -1,5 +1,5 @@
 ---
-title: "CATTI Vocabulary Notes"
+title: "[CATTI 备考笔记] -- 词汇"
 date: 2021-02-06T13:26:49+08:00
 categories: ["Language Learning"]
 tags: ["English", "CATTI"]
