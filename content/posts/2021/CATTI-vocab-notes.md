@@ -15,3 +15,4 @@ draft: false
 | drag sb. ('s name) through the mire / bring sb. in the mire | 使某人丢丑，使某人名誉扫地                                     |                   |
 | from time immemorial                                        | 自古以来                                                       |                   |
 | prior to                                                    | 在 …… 以前                                                     | before 的书面语体 |
+| on the whole                                                | 总体上来说                                                     |                   |
