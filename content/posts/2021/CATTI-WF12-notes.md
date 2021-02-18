@@ -339,3 +339,36 @@ I have five hundred yuan.
 | foreign trade agencies of China                                           | 中国的外贸机构             |
 | arbitration                                                               | 仲裁                       |
 | conciliation                                                              | 调节                       |
+
+## 第十一天 突破中西方文化差异的翻译
+
+### 中文四字短语的翻译
++ **AABB型**。如干干净净、高高兴兴等。只翻译 AB。
++ **ABAB型**。如兴高采烈、浓妆艳抹等，前后表达的是同一个意思。只翻译 AB。
++ **ABCD型**。如锐意进取、自强不息等。翻译时应该使用的方法是**解释**。
+
+### 两个意思相近四字短语的翻译
++ 可以用形式上差不多的短语来进行翻译。
++ 可以翻译成一个单词。
+
+### 处理和父亲母亲各自相关的亲戚称谓的翻译
+和母亲相关的可以用 maternal，和父亲相关的可以用 paternal。  
+
+### 中文语言里特有词汇的翻译方法
++ 直译法，用拼音直接写出这个单词，或是用英文直接翻译。
++ 用增词的方法来进行解释。
++ 在页面的底部用注释的方法解释句子中没有被理解的部分。
+
+### 词汇积累
+| Eng                                 | Chi                               |
+|-------------------------------------|-----------------------------------|
+| from head to toe                    | 从头到脚                          |
+| the fruit of                        | 成果，比 result 更加正面          |
+| wage struggles                      | 进行斗争                          |
+| lift oneself from                   | 摆脱；把 …… 从 …… 拯救出来        |
+| historical plight                   | 历史境遇，比 situation 更显得贬义 |
+| semi-colonial and semi-feudal rules | 半殖民地半封建的统治              |
+| our Chinese people                  | 我国人民                          |
+| implement Reform and Opening-up     | 施行改革开放                      |
+| the modernization drive             | 现代化建设                        |
+| opera troupe                        | 剧团                              |
