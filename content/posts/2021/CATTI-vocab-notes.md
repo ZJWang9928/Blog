@@ -16,3 +16,5 @@ draft: false
 | from time immemorial                                        | 自古以来                                                       |                   |
 | prior to                                                    | 在 …… 以前                                                     | before 的书面语体 |
 | on the whole                                                | 总体上来说                                                     |                   |
+| Notably, ...                                                | 其中 ……                                                        |
+| work safety                                                 | 安全生产                                                       |
