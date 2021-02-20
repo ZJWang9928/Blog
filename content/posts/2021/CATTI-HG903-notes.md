@@ -32,3 +32,12 @@ draft: false
 + in an effort to do sth.
 + as it works to do sth.
 + as it looks to do sth.
+
+### as 句式结构
+“as” 通常放在句首后加句子，句子时态为一般现在时，表示给出事实或背景，相当于中文的“随着 ……”“在 …… 的情况下/背景下”。  
+
+### ing 句式结构
+是主句中主语行为造成的结果，是对主句中谓语动词造成影响的补充说明，相当于中文的“……，使 ……”。 
+
+### with 句式结构
+“..., with sb. doing sth.” 与 ing 句式的区别在于 ing 动作的发出者与主句主语是同一个主体，而 “with sb. doing sth.” 后者动作的发出者与主句主语不是同一主体。  
