@@ -48,7 +48,7 @@ With no one to support them, mother and son found life still more difficult.
 | 孟子         | Mencius          |
 | 逃学         | play truant      |
 | 看了看       | cast a glance at |
-| 起得浑身哆嗦 | shake with anger |
+| 气得浑身哆嗦 | shake with anger |
 | 语重心长地说 | say with feeling |
 | 聋哑人       | deaf mute        |
 | 手语         | sign language    |
