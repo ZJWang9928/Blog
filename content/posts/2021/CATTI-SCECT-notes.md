@@ -55,14 +55,58 @@ With no one to support them, mother and son found life still more difficult.
 
 # Unit 2 History
 
-## Lesson 1 (E - C)
+## Lesson 3 (E - C)
 
 ### 一正一反两个短句之间的连词处理
 #### e.g. It was not simply a source of power, it was a new wave of movement.
 英语跟分句之间一般要有连词相连，但是一句包含两个一正一反短句的情况，可以不用连词。  
+
+### leading 的处理
+**leading manufacturing nation**  
+**头号的**制造业国家  
+
+### 抽象名词的处理
+有动词词根的抽象名词处理成**动宾短语**。  
 
 ### 词汇积累
 | Eng              | Chi                             |
 |------------------|---------------------------------|
 | pottery industry | 陶瓷工业                        |
 | in the air       | = much talked about，在酝酿之中 |
+| triad            | n. 三个一组                     |
+
+## Lesson 4 (C - E)
+
+### “舞台”的译法
+“政治舞台”“历史舞台”中的“舞台”通常翻译成 **arena**，而不用 stage。  
+
+### “我国”的处理
+多译作 China。  
+
+### 好句积累
++ 那时候，各地学生纷纷响应北京学生的反帝爱国斗争。  
+Immediately, the students **in one part of the country after another** rose up in support of the anti-imperialist patriotic struggle launched by the students in Beijing.  
++ 中国工人阶级第一次作为觉悟了的独立的政治力量登上政治舞台，显示了它的伟大力量。  
+For the first time in Chinese history, the working class appeared as an awakened, independent force in the political arena, demonstrating its tremendous strength.  
++ 五四运动是一次彻底的不妥协的反帝反封建的革命运动，它促成了中国工人运动同马克思主义的结合，在思想上和干部上为中国共产党的成立作了准备，是中国新民主主义革命的开端。  
+The May 4th Movement was a thoroughgoing, uncompromising revolutionary movement against imperialism and feudalism. It was instrumental in bringing about the integration of Marxism with China's labour movement, and it paved the way, both in ideology and in the matter of cadres, for the founding of the Chinses Communist Party. It ushered in China's new-democratic revolution.  
+
+### 词汇积累
+| Chi                               | Eng                                                              |
+|-----------------------------------|------------------------------------------------------------------|
+| 民族危机                          | national crisis                                                  |
+| 投降                              | capitulation                                                     |
+| 1919 年“巴黎和会”上中国外交的失败 | China's diplomatic setback at the Paris Peace Conference in 1919 |
+| 举行示威游行                      | hold a demonstration                                             |
+| 痛打                              | beat up sb.                                                      |
+| 反帝爱国斗争                      | anti-imperialist patriotic struggle                              |
+| …… 变本加厉                       | intensify sth.                                                   |
+| 运动的主力，中流砥柱              | mainstay                                                         |
+| 撤销某人的职务                    | dismiss sb. from office                                          |
+| 干部                              | cadre                                                            |
+| 专号                              | special issues                                                   |
+| 向工人群众宣传                    | do publicity work among the workers                              |
+
+# Unit 3 Geography
+
+## Lesson 5 (E - C)
