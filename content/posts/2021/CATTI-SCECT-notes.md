@@ -110,3 +110,26 @@ The May 4th Movement was a thoroughgoing, uncompromising revolutionary movement 
 # Unit 3 Geography
 
 ## Lesson 5 (E - C)
+
+### be home to 的处理
+译作“是 …… 的家”有时显得并不通顺，可以译作“ …… 住在这里”。  
+
+### 英汉两种语言的三大特点
++ 英语不喜欢重复，用代词代替重复的词语；汉语不怕重复。
++ 英汉两种语言的主谓搭配，在大多数情况下相通。一般来说，汉语的主谓关系没有英语那么密切。
++ 英语句子里**主从关系**很多，体现出不同的层次；汉语句子里**并列关系**居多，层次不甚明显。  
+
+### 好句积累
++ Their galabias and turbans stained by the sweat and dirt of a long day's work, they sat in front of a wayside shop, enjoying three of the best things in life along the Nile -- tea, conversation, and the water pipe.  
+他们干了一天活儿，袍子和头巾上又是汗，又是土。这时候，他们坐在路旁一家商店门口，享受尼罗河沿岸人们生活里的三件最大的乐事 —— 喝茶、聊天、抽水烟。  
++ All this suggested ancient harmonies.  
+这一切**使人感到**古代的和谐气氛。  
++ Yet the Nile has been changed by modern man in ways not yet fully understood.  
+然而现代的人却使尼罗河发生了变化，不过就连他们自己也不完全了解尼罗河究竟发生了什么变化。  
+
+### 词汇积累
+| Eng          | Chi           |
+|--------------|---------------|
+| granary      | n. 谷仓，粮仓 |
+| piously      | adv. 虔诚地   |
+| utility pole | 电线杆        |
