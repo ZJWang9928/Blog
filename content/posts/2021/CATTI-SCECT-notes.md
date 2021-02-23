@@ -119,6 +119,12 @@ The May 4th Movement was a thoroughgoing, uncompromising revolutionary movement 
 + 英汉两种语言的主谓搭配，在大多数情况下相通。一般来说，汉语的主谓关系没有英语那么密切。
 + 英语句子里**主从关系**很多，体现出不同的层次；汉语句子里**并列关系**居多，层次不甚明显。  
 
+### owe ... to ... 的处理
+owe ... to ... 是一个成语。如： owed little to the present era 意思相当于 there was hardly anything that showed the influence of the present era。  
+
+### perch 的使用
+perch 的意思是“置于”或“位于”，一般用来指**位于高出或危险处的建筑物**，例如： a hut perched at the edge of the cliff 悬崖边上的小屋。  
+
 ### 好句积累
 + Their galabias and turbans stained by the sweat and dirt of a long day's work, they sat in front of a wayside shop, enjoying three of the best things in life along the Nile -- tea, conversation, and the water pipe.  
 他们干了一天活儿，袍子和头巾上又是汗，又是土。这时候，他们坐在路旁一家商店门口，享受尼罗河沿岸人们生活里的三件最大的乐事 —— 喝茶、聊天、抽水烟。  
@@ -128,8 +134,23 @@ The May 4th Movement was a thoroughgoing, uncompromising revolutionary movement 
 然而现代的人却使尼罗河发生了变化，不过就连他们自己也不完全了解尼罗河究竟发生了什么变化。  
 
 ### 词汇积累
-| Eng          | Chi           |
-|--------------|---------------|
-| granary      | n. 谷仓，粮仓 |
-| piously      | adv. 虔诚地   |
-| utility pole | 电线杆        |
+| Eng             | Chi             |
+|-----------------|-----------------|
+| granary         | n. 谷仓，粮仓   |
+| piously         | adv. 虔诚地     |
+| utility pole    | 电线杆          |
+| now ... now ... | 有时 …… 有时 …… |
+
+## Lesson 6 (C - E)
+
+### 长的词语后置
+#### e.g. 公园的中心 —— 琼岛，周长 1,913 米，高 32.8 米。
+The centre of the park is Qiong Island, 32.8 metres high and 1,913 metres in circumference.  
+汉语中“周长”在前，“高”在后。译文则把 high 放前面，把 in circumference 放在后面。把长的词语放在后面，节奏比较好，句子压得住。  
+
+### 词汇积累
+| Chi          | Eng                   |
+|--------------|-----------------------|
+| 御花园       | the imperial garden   |
+| 冬至         | the winter solstice   |
+| 汉白玉石栏杆 | white marble railings |
