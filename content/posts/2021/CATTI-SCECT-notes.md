@@ -154,3 +154,30 @@ The centre of the park is Qiong Island, 32.8 metres high and 1,913 metres in cir
 | 御花园       | the imperial garden   |
 | 冬至         | the winter solstice   |
 | 汉白玉石栏杆 | white marble railings |
+
+# Unit 4 Economy
+
+## Lesson 7 (E - C)
+
+### 译法积累
++ jobs supported by U.S. exports  
+美国的出口创造的就业机会  
++ Nor is the importance of trade likely to diminish for either China or the United States.  
+无论是中国还是美国，都不会缩小贸易的重要性。  
++ This means jobs for American workers and a higher standard of living for the American people.  
+这意味着为美国工人创造就业机会，使美国人民提高生活水平。  
++ The result, I believe, is that we have built the beginning of a sound foundation for future commercial and finance ties.  
+我相信，我们已经为今后的贸易和金融关系**初步**打下了坚实的基础。  
++ China's imports from the US, which amounted to $ 900 million in 1978, rose to nearly $ 3 billion in 1982.  
+中国从美国的进口额，1978 年为 9 亿美元，到了 1982 年增加到近 30 亿美元。  
+**注**：原文是复合句，定语从句提了一下 1978 年的情况，句子的重点是说明 1982 年的情况。译文则用了**并列结构**。这种句子一般都是这样处理的。  
+
+### 词汇积累
+| Eng                      | Chi                                              |
+|--------------------------|--------------------------------------------------|
+| interdependent           | adj. 互相依赖的                                  |
+| sum total                | 总数，总额，是一个固定的说法                     |
+| per capita               | 人均                                             |
+| lucrative                | adj. 获利多的，赚钱的；合算的                    |
+| in the order of          | 固定词组，用于数量，表示“大约”，是一个较文的用法 |
+| offshore oil exploration | 近海石油勘探                                     |
