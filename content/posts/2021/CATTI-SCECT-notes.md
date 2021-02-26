@@ -181,3 +181,35 @@ The centre of the park is Qiong Island, 32.8 metres high and 1,913 metres in cir
 | lucrative                | adj. 获利多的，赚钱的；合算的                    |
 | in the order of          | 固定词组，用于数量，表示“大约”，是一个较文的用法 |
 | offshore oil exploration | 近海石油勘探                                     |
+
+## Lesson 8 (C - E)
+
+### 译法积累
++ 立足国内资源  
+**rely on** domestic resources  
++ 在未来的发展过程中  
+in the course of future development  
++ 在播种面积相对稳定的前提下，……  
+**Given** a relatively stable sown area, ...  
++ 饥饿始终是半殖民地、半封建的旧中国的一大难题。  
+The semi-colonial and semi-feudal old China was perennially haunted by the specter of starvation.  
++ 1995 年与 1949 年相比，粮食总产量增长了 3 倍多，年均递增 3.1%。  
+The grain output in 1995 more than quadrupled the 1949 figure, **or** an average increase of 3.1 percent a year.  
++ 据 …… 统计， ……  
+Statistics from ... show ...  
++ 温饱问题  
+the problem of people not having enough to eat and wear/the problem of people not having adequate food and clothing  
+
+### 词汇积累
+| Chi              | Eng                          |
+|------------------|------------------------------|
+| 客观上的有利因素 | favorable objective factors  |
+| 半殖民地的       | semi-colonial                |
+| 半封建的         | semi-feudal                  |
+| 自力更生         | self-reliance                |
+| 长期地，永久地   | perennially                  |
+| 粮食占有量       | share of grain               |
+| 封建土地所有制   | the feudal ownership of land |
+| 豆类             | legume                       |
+| 薯类             | tuber                        |
+| 水产品           | aquatic products             |
