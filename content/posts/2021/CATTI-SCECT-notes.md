@@ -213,3 +213,28 @@ the problem of people not having enough to eat and wear/the problem of people no
 | 豆类             | legume                       |
 | 薯类             | tuber                        |
 | 水产品           | aquatic products             |
+
+# Unit 5 Culture
+
+## Lesson 9 (E - C)
+
+### 译法积累
++ My maternal grandfather, it is true, was cut off in the flower of his youth at the age of sixty-seven, but my other three grandparents all lived to be over eighty.  
+我的外祖父**固然**是在风华正茂之年就弃世了，当时他只有六七十岁，但是我的祖父、祖母和外祖母却都活到了八十以上。  
++ Of remoter ancestors I can only discover one who did not live to a great age.  
+**再往远一点说**，在我的先人之中，我发现只有一位活得不长。  
++ to her last day  
+直到临终   
++ One's thoughts must be directed to the future, and to things about which there is something to be done.  
+一个人应当考虑未来，考虑一些**可以有所作为的事情**。  
++ One's interest should be contemplative and, if possible, philanthropic, but not unduly emotional.  
+这种关心主要应该是多为他们着想，可能的话，给他们一些接济，而不应该过分地动感情。  
+**注**：注意三个形容词的处理方式。  
++ Animals become indifferent to their young as soon as their young can look after themselves.  
+动物，一旦它们的后代能够自己照料自己，它们就不管了。  
+**注**：时间状语翻译成插入语。  
+
+### 词汇积累
+| Eng     | Chi        |
+|---------|------------|
+| callous | 麻木不仁的 |
