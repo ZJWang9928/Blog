@@ -218,6 +218,19 @@ the problem of people not having enough to eat and wear/the problem of people no
 
 ## Lesson 9 (E - C)
 
+### 一个常用搭配
+render 和 service 常在一起搭配，可以说 render sb. a service 或 render a service to sb.，但是这种说法比较正式。  
+
+### 两个形容词用 and 连接的处理
+这是英语中极为普通的一种说法，译成汉语不一定要保留这个结构，可以分开说。  
+#### e.g. soemwhat abject and ignoble
+有些可鄙，有些不光彩  
+#### e.g. to make your interests gradually wider and more impersonal
+逐渐使自己关心更多的事情，关心那些不跟自己直接有关的事情  
+
+### 状语和动词搭配的一种处理方式
+如 justifiably feel ... 这个状语和动词的搭配在英语中可以，但是在汉语里就不行。如果勉强译作“正当地感到”，“有理由地感到”，或者“无可指责地感到”，都不好。这种情况下，可以**把状语拿出来，单独处理，放在全句末尾**。译作“感到 ……，这是无可指责的”。再比如 painlessly lose their individual being，可以处理成“结束其单独存在的那一段历程，但毫无痛苦之感”。  
+
 ### 译法积累
 + My maternal grandfather, it is true, was cut off in the flower of his youth at the age of sixty-seven, but my other three grandparents all lived to be over eighty.  
 我的外祖父**固然**是在风华正茂之年就弃世了，当时他只有六七十岁，但是我的祖父、祖母和外祖母却都活到了八十以上。  
@@ -233,8 +246,23 @@ the problem of people not having enough to eat and wear/the problem of people no
 + Animals become indifferent to their young as soon as their young can look after themselves.  
 动物，一旦它们的后代能够自己照料自己，它们就不管了。  
 **注**：时间状语翻译成插入语。  
++ I think that a successful old age is easiest for those who have strong impersonal interests involving appropriate activities.  
+我认为，**如果**老年人对于个人以外的事情怀有强烈的兴趣，并参加适当的活动，他们的晚年是最容易过得好的。  
++ both because ... and because ...  
+一来 ……，二来 ……  
++ there is a justification for ...  
+有 …… 是情有可原的  
++ Young men who have reason to fear that they will be killed in battle may justifiably feel bitter in the thought that they have benn cheated of the best things that life has to offer.  
+**如果**青年人由于某种原因认为自己有可能在战斗中死去，想到生活所能提供的最美好的东西自己都无法享受，觉得受了骗，因而感到痛苦，这是无可指责的。  
+**注**：定语从句过长，翻译成定语显得累赘，因此加上“如果”处理成主谓结构。 
++ the banks recede  
+两岸离得越来越远  
++ without any visible break  
+看不出任何界限  
+**注**：本来并没有动词，但是汉语处理成了动宾短语，这也是汉语多用动词的一个例子。  
 
 ### 词汇积累
-| Eng     | Chi        |
-|---------|------------|
-| callous | 麻木不仁的 |
+| Eng            | Chi        |
+|----------------|------------|
+| callous        | 麻木不仁的 |
+| universal life | 社会生活   |
