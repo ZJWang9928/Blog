@@ -266,3 +266,36 @@ render 和 service 常在一起搭配，可以说 render sb. a service 或 rende
 |----------------|------------|
 | callous        | 麻木不仁的 |
 | universal life | 社会生活   |
+
+## Lesson 10 (C - E)
+
+### 关于“威斯敏斯特教堂”
+文学作品中常译作“西敏寺”。  
+常用的所略说法是 the Westminster，全称是 the Westminster Abbey。  
+
+### 译法积累
++ 从 1957 年 ……  
+as early as 1957 ...  
++ 如今，能为他的这本散文集子作序，我觉得很荣幸。  
+I find it a great honour to be asked to write a preface to this collection of his essays.  
++ 越来越少（所剩不多）  
+be running short  
+**注**：short 在这里是副词。  
++ 一地同志送来的他的部分稿子，我不能仔细地欣赏， ……  
+I was unable to re*ad carefully and enjoy* **all the articles** he had sent me ...  
++ …… 使我十分羡慕  
+... aroused my envy  
++ 虽然时代不同，我想历史古迹总该是依旧吧。  
+Times are different, but the historic sites, I presume, must have remained the same.  
+**注**：I presume 放在句中作为插入语，比起放在句首作为主句，更为自然。  
++ 比解放前的北京看上去舒服多了  
+be much more pleasant **to the eye** than Beijing before liberation  
++ 红、黄、白、紫四色分明的盛开的郁金香  
+blooming tulips of distinctive red, yellow, white and purple  
+
+### 词汇积累
+| Chi                | Eng                      |
+|--------------------|--------------------------|
+| 中国少年儿童出版社 | the China Children Press |
+| 散文集             | collection of essays     |
+| 游记               | travel notes             |
