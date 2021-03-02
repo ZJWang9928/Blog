@@ -273,6 +273,9 @@ render 和 service 常在一起搭配，可以说 render sb. a service 或 rende
 文学作品中常译作“西敏寺”。  
 常用的所略说法是 the Westminster，全称是 the Westminster Abbey。  
 
+### 关于 because 引导的从句
+在英语中， beacause 引导的从句，除非紧跟在一个问句后面，否则是不能单独成句的。若一定要单独成句时，可以说 This is because ...。最为常见的处理方式是**通过 because 将从句与上文连在一起**。  
+
 ### 译法积累
 + 从 1957 年 ……  
 as early as 1957 ...  
@@ -292,6 +295,20 @@ Times are different, but the historic sites, I presume, must have remained the s
 be much more pleasant **to the eye** than Beijing before liberation  
 + 红、黄、白、紫四色分明的盛开的郁金香  
 blooming tulips of distinctive red, yellow, white and purple  
++ （有）石头的道路，路边也常有喷泉  
+stone roads **dotted with** fountains on either side  
+**注**：dotted with ... 是一个常见的说法，表示“**到处可见**”的意思。  
++ 罗马是建在七山之上的城市，拥有大小 500 座教堂，我几乎都去过了。  
+Rome is located on seven hills with 500 churches, **big and small**, and I visited nearly all of the them.  
+**注**：译文中将 big and small 放在了后面，这是固定的用法。  
++ 我进去看了，只记得门警是瑞士士兵，穿着黄色制服，别的没有印象了。  
+I went there to have a look. All I remember now is that the guards at the entrance were Swiss soldiers in yellow uniforms.  
+**注**：译文选择在前后时态不同处断句。原文最后半句话“别的没有印象了”没有译。汉语说一件事情，往往正反两面说，并不觉得累赘，而英语则不然。  
++ 使我看到了 ……  
+has brought ... to my attention  
+**注**：关于“使我 ……”的处理，make me do sth. 往往有强制的意思，要慎用。  
++ 信笔写来， ……  
+Letting my pen take its course, ...  
 
 ### 词汇积累
 | Chi                | Eng                      |
@@ -299,3 +316,4 @@ blooming tulips of distinctive red, yellow, white and purple
 | 中国少年儿童出版社 | the China Children Press |
 | 散文集             | collection of essays     |
 | 游记               | travel notes             |
+| 梵蒂冈             | the Vatican              |
