@@ -317,3 +317,49 @@ Letting my pen take its course, ...
 | 散文集             | collection of essays     |
 | 游记               | travel notes             |
 | 梵蒂冈             | the Vatican              |
+
+# Unit 6 Literature (1)
+
+## Lesson 11 (E - C)
+
+### I'm surprised ... 的口语化处理方式
+可以译作“我真想不到”或“我真没想到”。  
+
+### 关于 in five minutes
+in five minutes 不是“五分钟以内”，而是“**五分钟之后**”，口语化可译作“过五分钟”。  
+
+### 译法积累
++ before we get to Stourcastle  
+我们**赶不到**斯图堡 …… 就 ……  
++ This is a surprise!  
+可真没想到哇！  
+
+## Lesson 12 (C - E)
+
+### 关于 sit up
+sit up to do sth. 就是晚上不睡觉的意思，可以做各种事情，不一定是坐在那里。  
+
+### 分句间 that 的省略
+如： I got so worried, I begged people to help me find him.  
+这里不是两个分句没有连接，而是中间省略了一个 that，这个 that 可以用也可以不用。  
+再如： She spoke so quietly (that) I could hardly hear her.  
+
+### 译法积累
++ 有一年的冬初，四叔家里要换女工，做中人的卫老婆子带她进来了。  
+Early one winter, when my uncle's family wanted a new maid, Old Mrs. Wei **the go-between** brought her along.  
++ 日子很快的过去了，她的做工却毫没有懈，食物不论，力气是不惜的。  
+Time passed quickly. She went on working as hard as ever, not caring what she ate, never sparing herself.  
++ 人们都说 ……  
+It was generally agreed that ...  
++ 他是很听话的。  
+He was such a good boy.  
++ 直到下半天，寻来寻去寻到山墺里。  
+Not until that afternoon, after searching **high and low**, **did** they try the gully.  
+**注**：high and low 是一个固定词组，表示 everywhere，常与 search 连用。did they try the gully 不是问句，却用了倒装语序，这是因为句子开头用了 Not until。  
+
+### 词汇积累
+| Chi        | Eng          |
+|------------|--------------|
+| 面色蜡黄的 | sallow       |
+| 试工期     | trial period |
+| 劈柴       | to chop wood |
