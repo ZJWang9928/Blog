@@ -363,3 +363,13 @@ Not until that afternoon, after searching **high and low**, **did** they try the
 | 面色蜡黄的 | sallow       |
 | 试工期     | trial period |
 | 劈柴       | to chop wood |
+
+# Unit 7 Literature (2)
+
+## Lesson 13 (E - C)
+
+### 词汇积累
+| Eng                 | Chi          |
+|---------------------|--------------|
+| ranges of mountains | 山脉         |
+| swale               | 沼泽地，洼地 |
