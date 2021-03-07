@@ -368,8 +368,18 @@ Not until that afternoon, after searching **high and low**, **did** they try the
 
 ## Lesson 13 (E - C)
 
+### 译法积累
++ stand up against the sky  
+高耸入云  
++ It may be the birth and death of the day had some part in my feeling about the two ranges od mountains.  
+每一天的诞生和消亡也许使我对两条山脉产生了不同的感情。  
++ In the winter of wet years ...  
+在多雨的年份，冬天 ……  
+
 ### 词汇积累
-| Eng                 | Chi          |
-|---------------------|--------------|
-| ranges of mountains | 山脉         |
-| swale               | 沼泽地，洼地 |
+| Eng                 | Chi               |
+|---------------------|-------------------|
+| ranges of mountains | 山脉              |
+| swale               | 沼泽地，洼地      |
+| beckon              | v. 招手示意，召唤 |
+| tule                | 芦苇              |
