@@ -375,6 +375,13 @@ Not until that afternoon, after searching **high and low**, **did** they try the
 每一天的诞生和消亡也许使我对两条山脉产生了不同的感情。  
 + In the winter of wet years ...  
 在多雨的年份，冬天 ……  
++ I see you are looking at my flag.  
+**看来**你是在看我的旗子。  
++ His air of complete self-assurance and somewhat lordly bearing would have frightened me, had it not been for his warm and hearty handshake.  
+他和我握手的时候是那样热情，那样真诚，**要不然**他那十分自信的神气和略为高傲的派头真会使我害怕呢。  
+**注**：译文中将条件从句提前。在处理 warm and hearty handshake 时，译作“热情真挚的握手”不太顺，所以把名词 handshake 译作动词，用“热情”、“真挚”修饰主语“他”。  
++ became very conscious of my funny dress  
+强烈地感到自己这身衣服非常可笑  
 
 ### 词汇积累
 | Eng                 | Chi               |
@@ -383,3 +390,4 @@ Not until that afternoon, after searching **high and low**, **did** they try the
 | swale               | 沼泽地，洼地      |
 | beckon              | v. 招手示意，召唤 |
 | tule                | 芦苇              |
+| resonant            | adj. 洪亮的       |
