@@ -391,3 +391,31 @@ Not until that afternoon, after searching **high and low**, **did** they try the
 | beckon              | v. 招手示意，召唤 |
 | tule                | 芦苇              |
 | resonant            | adj. 洪亮的       |
+
+## Lesson 14 (C - E)
+
+### 一个表示有害的习语
+**do for sb.** 表示某事对某人十分有害。这一习语用于被动语态的情况较多。  
+
+### 表示“发烧”的一个常用搭配
+**run a fever** = have a fever  
+
+### 译法积累
++ 我家里生活苦，父亲做小买卖，妈妈是家庭妇女，弟弟妹妹多。  
+My family was hard up, **with** Father a peddler, Mother a housewife, and so many children to feed.  
++ 有一次是夏天，连阴天，连着回戏。  
+One sumemr **a spell of** bad weather closed down out theater.  
+**注**：同样的天气持续一整天，可以用 **spell**。  
++ 一会儿冷，一会儿热  
+burning hot one moment and icy cold the next  
+或：now burning hot, now icy cold  
+
+### 词汇积累
+| Chi          | Eng                |
+|--------------|--------------------|
+| 烟头         | cigarette stubs    |
+| 煤渣，煤核   | cinder             |
+| 自谋生路     | fend for oneself   |
+| 当小工       | do odd jobs        |
+| （工人）下班 | knock off          |
+| 落汤鸡       | like a drowned rat |
