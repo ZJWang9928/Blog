@@ -409,13 +409,22 @@ One sumemr **a spell of** bad weather closed down out theater.
 + 一会儿冷，一会儿热  
 burning hot one moment and icy cold the next  
 或：now burning hot, now icy cold  
++ 一大家人都指着爸爸和我两个人挣钱吃饭呀！  
+The whole family looked to Father and me for food.  
++ 学会了很多毛衣的花样  
+learned to knit sweaters of many kinds  
++ 全国解放以后， ……  
+After Liberation, ...  
 
 ### 词汇积累
-| Chi          | Eng                |
-|--------------|--------------------|
-| 烟头         | cigarette stubs    |
-| 煤渣，煤核   | cinder             |
-| 自谋生路     | fend for oneself   |
-| 当小工       | do odd jobs        |
-| （工人）下班 | knock off          |
-| 落汤鸡       | like a drowned rat |
+| Chi          | Eng                        |
+|--------------|----------------------------|
+| 烟头         | cigarette stubs            |
+| 煤渣，煤核   | cinder                     |
+| 自谋生路     | fend for oneself           |
+| 当小工       | do odd jobs                |
+| （工人）下班 | knock off                  |
+| 落汤鸡       | like a drowned rat         |
+| 胭脂；涂胭脂 | rouge                      |
+| 剧团         | opera troupe               |
+| 中年女工     | a middle-aged woman worker |
