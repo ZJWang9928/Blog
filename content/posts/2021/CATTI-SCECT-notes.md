@@ -428,3 +428,25 @@ After Liberation, ...
 | 胭脂；涂胭脂 | rouge                      |
 | 剧团         | opera troupe               |
 | 中年女工     | a middle-aged woman worker |
+
+# Unit 8 Popular Science
+
+## Lesson 15 (E - C)
+
+### 自然科学中被动的处理
+说明某种东西的用途时，往往用“**可以**”二字。  
+
+### 译法积累
++ The livers of the cod and the halibut, two kinds of fish, yield nourishing oil.  
+鳕鱼和比目鱼，这两种鱼的肝脏出的油营养丰富。  
+**注**：因为前文说“有些动物也出油”，这里像原文一样直接说“肝脏”不够自然，因此先说两种鱼的名字，再说“这两种鱼的肝脏”比较自然。这种结构在汉语语法中叫做“外位成分”，“鳕鱼和比目鱼”是**外位语**，“这两种鱼”是**本位语**，在句中做定语。  
+
+### 词汇积累
+| Eng                        | Chi      |
+|----------------------------|----------|
+| blubber                    | 鲸脂     |
+| cod                        | 鳕鱼     |
+| halibut                    | 比目鱼   |
+| sick children              | 患儿     |
+| internal combustion engine | 内燃机   |
+| burn well                  | 易于燃烧 |
