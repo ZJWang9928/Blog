@@ -440,6 +440,20 @@ After Liberation, ...
 + The livers of the cod and the halibut, two kinds of fish, yield nourishing oil.  
 鳕鱼和比目鱼，这两种鱼的肝脏出的油营养丰富。  
 **注**：因为前文说“有些动物也出油”，这里像原文一样直接说“肝脏”不够自然，因此先说两种鱼的名字，再说“这两种鱼的肝脏”比较自然。这种结构在汉语语法中叫做“外位成分”，“鳕鱼和比目鱼”是**外位语**，“这两种鱼”是**本位语**，在句中做定语。  
++ Scientists are confident about the formation of coal.  
+科学家确知煤是怎样形成的。  
++ The statement that oil originated in the sea ...  
+石油是在海里形成的，这种说法， ……  
+**注**：处理成外位结构。  
++ They are sedimentary rocks, rocks which were laid down by the action of water on the bed of the ocean.  
+这种岩层是沉积岩，是在海水的**作用**之下沉积在洋底的。  
++ soft rock
+松软的岩石
++ Geologists, scientists who study rocks, ...  
+地质学家是研究岩石的科学家， ……  
++ for trace of oil  
+看是否有含油的迹象  
+**注**：介词短语加了三个动词，算是汉语比英语多用动词的一例。  
 
 ### 词汇积累
 | Eng                        | Chi      |
@@ -450,3 +464,8 @@ After Liberation, ...
 | sick children              | 患儿     |
 | internal combustion engine | 内燃机   |
 | burn well                  | 易于燃烧 |
+| sedimentary rocks          | 沉积岩   |
+| shale                      | 页岩     |
+| asphalt                    | 沥青     |
+| pitch lake                 | 沥青湖   |
+| crude oil                  | 原油     |
