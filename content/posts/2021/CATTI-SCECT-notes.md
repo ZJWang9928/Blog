@@ -469,3 +469,42 @@ After Liberation, ...
 | asphalt                    | 沥青     |
 | pitch lake                 | 沥青湖   |
 | crude oil                  | 原油     |
+
+## Lesson 16 (C - E)
+
+### “某地有某物”的处理
+boast 相当于 possess，表示**某地有什么东西**时常用这个动词。  
+需要注意的是，在这里它是一个**及物动词**，后面不加 of。  
+
+### 说明客观情况语句的处理
+#### e.g. 海洋覆盖了地球表面的 71 %，是全球生命支持系统的一个基本组成部分。  
+The ocean, **which** covers 71 per cent of the earth's surface, is a basic component of the global bio-support system.  
+此处，“覆盖了 ……”和“是 ……”是并列谓语，前者说明的是一个**客观情况**。在英语中，这种说明客观情况的话，特别是说明人们已经已知情况的话，在句子里一般放在次要位置，这样可以突出句子主要想说的话。因此译文中处理成了一个从句。  
+
+### 译法积累
++ 根据中国有关方面的统计， ……  
+Official statistics show that ...  
++ 中国有 960 万平方千米的陆地国土，居世界第三位。  
+China has a land area of 9.6 million sq km, **making it** the third-biggest country in the world.  
++ 中国作为一个发展中的沿海大国，国民经济要持续发展，必须把海洋的开发和保护作为一项长期的战略任务。  
+As a major developing country with a long coastline, China, therefore, must take exploitation and protection of the ocean as a long term strategic task before it can achieve the sustainable development of its national economy.  
++ 对 …… 行使主权权利和管辖权  
+exercise sovereignty and jurisdiction over ...  
++ 按照 …… 的规定  
+as defined by ... / in accordance with ...  
++ 即将到来的二十一世纪是人类开发利用海洋的新世纪。  
+In the coming 21st century mainkind will **have new opportunities** to develop and utilize the ocean.  
+**注**：原文中“世纪”一词出现了两次，在译文中重复 century 不可取，因此处理成时间状语并更换主语。另外，需注意 mainkind 前面**不用冠词**。  
+
+### 词汇积累
+| Chi        | Eng                      |
+|------------|--------------------------|
+| 大陆架     | continental shelves      |
+| 专属经济区 | exclusive economic zones |
+| 渔场       | fishing grounds          |
+| 平方海里   | square nautical miles    |
+| 浅海       | shallow seas             |
+| 滩涂       | tidelands                |
+| 宝库       | treasure house           |
+| 调节器     | regulator                |
+| 准则       | norm                     |
