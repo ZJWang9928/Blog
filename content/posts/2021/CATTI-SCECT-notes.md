@@ -495,6 +495,17 @@ as defined by ... / in accordance with ...
 + 即将到来的二十一世纪是人类开发利用海洋的新世纪。  
 In the coming 21st century mainkind will **have new opportunities** to develop and utilize the ocean.  
 **注**：原文中“世纪”一词出现了两次，在译文中重复 century 不可取，因此处理成时间状语并更换主语。另外，需注意 mainkind 前面**不用冠词**。  
++ 维护海洋健康  
+maintaining the **wholesomeness** of the oceans  
++ 人类共同担负的使命  
+a collective mission for all mankind to undertake  
++ 海洋科学技术和教育  
+science, technology and education **pertaining to** the oceans  
++ 中国积极参与联合国系统的海洋事务，推进国家间和地区性海洋领域的合作，并认真履行自己承担的义务，为全球海洋开发和保护事业作出了积极贡献。  
+China has made positive contributions to international ocean development and protection **by** participating positively in UN marine affairs, promoting cooperation between countries and regions and conscientiously carrying out its obligations in this field.  
+**注**：这句话讲了四件事情，前三件是我国具体做的事，最后一件是总的评价。译文把最后一件用谓语动词来处理，然后用 by 引出三个动名词，处理三件具体的事，这就突出了句子的重点。  
++ 借此机会 ……  
+and on this occasion ...  
 
 ### 词汇积累
 | Chi        | Eng                      |
@@ -508,3 +519,7 @@ In the coming 21st century mainkind will **have new opportunities** to develop a
 | 宝库       | treasure house           |
 | 调节器     | regulator                |
 | 准则       | norm                     |
+| 维护       | v. uphold                |
+| 海洋事务   | marine affairs           |
+| 义务       | obligations              |
+| 发展情况   | progress                 |
