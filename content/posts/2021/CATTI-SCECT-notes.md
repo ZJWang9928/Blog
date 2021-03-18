@@ -523,3 +523,31 @@ and on this occasion ...
 | 海洋事务   | marine affairs           |
 | 义务       | obligations              |
 | 发展情况   | progress                 |
+
+# Unit 9 Law
+
+## Lesson 17 (E - C)
+
+### 法律类文件翻译要求
++ 严谨 + 精确
++ 条理清
++ 文字明
++ 意思全
+
+### 译法积累
++ But these regulations were generally ignored.  
+可是对这些规定，人们一般都置之不理。  
+**注**：被动语态的处理。把“置之不理”放在句末，重点比较突出。  
++ Indeed, many environmental statues were so little publicized and so vaguely worded that their existence was hardly known and their meaning was scarcely understood.  
+说真的，许多环境法的宣传工作之薄弱与措辞之含糊，使人简直不知道有环境法，而环境法的意义也就无人了解了。  
++ A powerful indictment of America's disregard of ecology, Silent Spring was aimed chiefly at the wholesale use of chemical pesticides.  
+《沉默的春天》有力地控诉了美国之忽视生态，它主要是针对大规模使用农药。  
+
+### 词汇积累
+| Eng              | Chi                       |
+|------------------|---------------------------|
+| depredation      | 掠夺                      |
+| undermanned      | adj. 人手不足的           |
+| wholesale        | 大规模的                  |
+| rank with        | 和 …… 同样重要，不亚于 …… |
+| court of appeals | 上诉法院                  |
