@@ -542,12 +542,30 @@ and on this occasion ...
 说真的，许多环境法的宣传工作之薄弱与措辞之含糊，使人简直不知道有环境法，而环境法的意义也就无人了解了。  
 + A powerful indictment of America's disregard of ecology, Silent Spring was aimed chiefly at the wholesale use of chemical pesticides.  
 《沉默的春天》有力地控诉了美国之忽视生态，它主要是针对大规模使用农药。  
++ concern for the environment  
+环境问题  
++ The problem is to balance the needs of the environment against those of the economy or consumers trying to cope with the high cost of living without destroying the earth on which we all depend.  
+问题在于把保护环境的需要同经济需要平衡起来，同试图既能应付昂贵的生活费用而又不致破坏人们赖以为生的地球的消费者的需要平衡起来。  
++ set and enforce standards of clean air and water  
+设立并执行**保持**空气和水洁净的标准  
+**注**：添加动词“保持”。  
++ bring their pressure to bear in the hearings  
+在听证会上施加压力  
 
 ### 词汇积累
-| Eng              | Chi                       |
-|------------------|---------------------------|
-| depredation      | 掠夺                      |
-| undermanned      | adj. 人手不足的           |
-| wholesale        | 大规模的                  |
-| rank with        | 和 …… 同样重要，不亚于 …… |
-| court of appeals | 上诉法院                  |
+| Eng                   | Chi                       |
+|-----------------------|---------------------------|
+| depredation           | 掠夺                      |
+| undermanned           | adj. 人手不足的           |
+| wholesale             | 大规模的                  |
+| rank with             | 和 …… 同样重要，不亚于 …… |
+| court of appeals      | 上诉法院                  |
+| strip mining          | 露天采矿                  |
+| offshore oil drilling | 近海石油钻探              |
+| national life         | 国民生活                  |
+| pit sth. against sth. | 使势不两立                |
+| Act                   | 法                        |
+| Control Act           | 防治法                    |
+| amendment             | 修正案                    |
+| follow suit           | v. 追随效仿               |
+| bill                  | 议案                      |
