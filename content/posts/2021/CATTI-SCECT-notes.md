@@ -1,5 +1,5 @@
 ---
-title: "[CATTI 备考笔记] -- 庄绎传《英汉翻译简明教程》学习笔记"
+title: "[CATTI 备考笔记] -- 庄绎传《英汉翻译简明教程》学习笔记 (Part I)"
 date: 2021-02-21T16:02:55+08:00
 categories: ["Language Learning"]
 tags: ["English", "CATTI", "notes"]
@@ -569,3 +569,18 @@ and on this occasion ...
 | amendment             | 修正案                    |
 | follow suit           | v. 追随效仿               |
 | bill                  | 议案                      |
+
+## Lesson 18 (C - E) (后补)
+
+### 词汇积累
+| Chi              | Eng                        |
+|------------------|----------------------------|
+| 全国人民代表大会 | National People's Congress |
+
+# Unit 10 Speeches
+
+## Lesson 19 (E - C)
+
+### 译法积累
++ On behalf of all your American guests, I wish to thank you for the incomparable hospitality for which the Chinese people are justly famous throughout the world.  
+我谨代表你们的所有美国客人向你们表示感谢，**感谢你们**的无可比拟的盛情款待。中国人民以这种盛情款待而闻名世界。  
