@@ -592,9 +592,29 @@ and on this occasion ...
 **注**：which 引导的定语从句在译文中单独成句，并且前置，然后再说“本着这种坦率的精神 ……”。  
 + This is the day for our two peoples to rise to the heights of greatness which can build a new and a better world.  
 是我们两国人民攀登伟大境界的高峰，以缔造一个新的、更美好的世界的时候了。  
++ We have acquired a keen sense of the diversity, dynamism, and progress of China under your policies of reform and opening to the outside world.  
+我们强烈地感受到你们执行的改革和对外开放政策给中国带来的多样化、活力和进步。  
++ Our hope and vision was to forge a Sino-American regulationship which would contribute to establish full diplomatic regulations between our two great nations.  
+建立一种有利于世界和平和我们两国人民幸福的中美关系是我们当时的希望和憧憬。  
++ Can two nations surmount and indeed draw upon these differences to build an unprecedented and distinctive regulationship in world affairs?  
+两国是否能够超越这些差异并利用它在世界事务中建立一种前所未有、独具特色的关系？
++ If we are successful, in one great step our two nations will have been able to ease one of the greatest sources of tension in international affairs: that between the developing and developed worlds.  
+如果我们取得成功，我们两国就能**迈出一大步**缓和国际事务中最大的一个造成紧张的因素，即发展中世界和发达世界的关系。  
++ As a private American citizen I recognize that many of the burdens and opportunities of out regulationship have now passed to the non-governmental sectors of our two nations.  
+作为一个普通的美国公民，我知道我们关系中的许多**责任**和机会现在已经**转到**了我们两个社会的**民间部门**。  
++ In this context, it is important for out two societies to search for areas of cooperation which clear add to our mutual benefit.  
+在这种情况下，我们两个社会应该寻求那些对我们两国确实互利的合作领域，**这是很重要的**。  
+**注**：英语 it is important 放在句首，译文“这是很重要的”一般放在句末。  
++ Although ours is relatively quite small, such activities, when combined with our common foreign policy interests and a growing commercial regulationship, should help to remove the lingering fragility in Sino-American relations.  
+虽然我们的项目比较小，但这些活动同我们共同的外交政策利益以及不断增长的商业关系结合起来，就会有助于消除中美关系中仍然存在的脆弱性。  
 
 ### 词汇积累
-| Eng           | Chi        |
-|---------------|------------|
-| common ground | 共同点     |
-| immeasurably  | 无可估量地 |
+| Eng                         | Chi                    |
+|-----------------------------|------------------------|
+| common ground               | 共同点                 |
+| immeasurably                | 无可估量地             |
+| full diplomatic regulations | 正式外交关系           |
+| full member                 | 正式党员               |
+| draw upon                   | = make use of，利用    |
+| private                     | 不在官方任职的，普通的 |
+| non-governmental sectors    | 民间部门               |
