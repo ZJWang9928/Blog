@@ -584,3 +584,17 @@ and on this occasion ...
 ### 译法积累
 + On behalf of all your American guests, I wish to thank you for the incomparable hospitality for which the Chinese people are justly famous throughout the world.  
 我谨代表你们的所有美国客人向你们表示感谢，**感谢你们**的无可比拟的盛情款待。中国人民以这种盛情款待而闻名世界。  
++ the chance for world peace  
+**实现**世界和平的机会  
+**注**：原文有了介词 for，就不需要再加动词了。但译文需要增加动词“实现”，以使句子通顺。（抽象名词）  
++ In the spirit of frankness which I hope will characterize our talks this week, let us recognize at the outset these points: we have at times in the past been enemies.   
+我希望我们这个星期的会谈将是坦率的。本着这种坦率的精神，让我们在一开始就认识到这样几点：过去一些时候我们曾是敌人。  
+**注**：which 引导的定语从句在译文中单独成句，并且前置，然后再说“本着这种坦率的精神 ……”。  
++ This is the day for our two peoples to rise to the heights of greatness which can build a new and a better world.  
+是我们两国人民攀登伟大境界的高峰，以缔造一个新的、更美好的世界的时候了。  
+
+### 词汇积累
+| Eng           | Chi        |
+|---------------|------------|
+| common ground | 共同点     |
+| immeasurably  | 无可估量地 |

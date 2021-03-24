@@ -171,7 +171,7 @@ speed up the establishment
 英译汉时，一般把分号当作句号处理，翻译成两个句子。  
 
 ### “代词指明要点”
-#### e.g. waht he said
+#### e.g. what he said
 what 在这里指的是 he 所说的内容，不能忽略不计，需要翻译成“他所说的话”。  
 
 #### e.g. that of diamond
@@ -249,8 +249,10 @@ Verb (N1, N2, N3) = Verb N1, Verb N2, Verb N3
 英文善于用**物体**做主语，中文善于用**人和人的身体器官**做主语。  
 #### e.g. I was like that ship before my education began...
 我在开始接受教育之前，就像一条船 ……  
+其中的“教育”和“我”。
 #### e.g. A flicker of disappointment and depression passed over Clyde's face.
 克莱德的脸上划过了一丝失望和绝望。  
+“失望和绝望”和“克莱德”。  
 
 ### 范畴词的翻译
 通常把“高矮”“远近”“胖瘦”等反义词叫做范畴词。中文里一般用“大”的范畴词，而英文则通常根据实际情况，该“大”就“大”，该“小”就“小”。  
@@ -285,8 +287,8 @@ In the 21st century, people will have new opportunities to utilize and explore t
 靠近中心词的定语重要。  
 
 ### 中英文定语的排序情况
-**中文**：后置形容词 + 前置形容词 + 后置名词 + 前置名词 + 中心词  
 **英文**：前置形容词 + 前置名词 + 中心词 + 后置名词 + 后置形容词  
+**中文**：后置形容词 + 前置形容词 + 后置名词 + 前置名词 + 中心词  
 
 ### 词汇积累
 | Eng           | Chi    |
@@ -377,6 +379,9 @@ I have five hundred yuan.
 
 ### 英译汉换主语情况一 —— “偏正短语取偏做主语”
 主语是**偏正短语**时，可以将偏正短语中的“偏”做主语，然后再处理“正”的问题。  
+
+#### e.g. 合营企业的形式为有限责任公司。
+An equity joint venture takes the form of a limited liability company.  
 
 ### 中文的英文句式
 指的是中文改变为英文的语言结构，是汉译英的一个中间过程，可以让汉译英变得更简单。  
