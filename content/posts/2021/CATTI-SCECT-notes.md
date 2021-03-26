@@ -618,3 +618,27 @@ and on this occasion ...
 | draw upon                   | = make use of，利用    |
 | private                     | 不在官方任职的，普通的 |
 | non-governmental sectors    | 民间部门               |
+
+## Lesson 20 (C - E)
+
+### 译法积累
++ 先有哈佛，后有美利坚合众国，这说明了哈佛在美国历史上的地位。  
+The fact that Harvard was founded before the United States of America testifies to its position in the American history.  
++ 哈佛为增进中美两国人民的互相了解作出了有益的贡献。  
+Harvard has thus made useful contribution to **the enhanced mutual understanding** between the Chinese and American peoples.  
++ 国与国之间关系  
+state-to-state relations  
++ …… 唯有相互了解，才能增进信任，加强合作。  
+... Without it, it would be impossible for countries to build trust and promote cooperation with one another.  
++ 中美建交以来，我们两国人民之间的互相交流与了解在逐渐扩大和加深，但还不够。    
+Since the establishment of diplomatic ties between China and the United States, the exchanges and mutual understanding between our two peoples have broadened and deepened steadily. However, this is not enough.  
++ 中国在自己发展的长河中，形成了优良的历史文化传统。这些传统，随着时代变迁和社会进步获得扬弃和发展，对今天中国人的价值观念、生活方式和中国的发展道路，具有深刻的影响。  
+In the prolonged course of its development, China has formed its fine historical and cultural traditions, which have been either developed or sublated with the changes of the times and social progress. These traditions have exerted a profound impact on the values and way of life of the Chinese people today, and on China's **road of advance**.  
++ 就以下一些方面谈些看法  
+make some observations on the following aspects  
+
+### 词汇积累
+| Chi      | Eng             |
+|----------|-----------------|
+| 发展道路 | road of advance |
+
