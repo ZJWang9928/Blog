@@ -636,9 +636,31 @@ Since the establishment of diplomatic ties between China and the United States, 
 In the prolonged course of its development, China has formed its fine historical and cultural traditions, which have been either developed or sublated with the changes of the times and social progress. These traditions have exerted a profound impact on the values and way of life of the Chinese people today, and on China's **road of advance**.  
 + 就以下一些方面谈些看法  
 make some observations on the following aspects  
++ 从遥远的古代起  
+Since time immemorial  
++ 民族地区的经济社会获得不断的发展。  
+These regions have witnessed continued economic and social development.  
++ 所有这些，为巩固国家统一奠定了坚实的政治基础。  
+All these have **laid a solid political foundation** for consolidated national unity.  
++ 近代 ……  
+In mordern times,  
++ 从中国国情出发  
+**proceed from** our own national conditions  
++ 我们采取独立自主的立场和政策。  
+We decide out positions and policies from an independent approach.  
 
 ### 词汇积累
-| Chi      | Eng             |
-|----------|-----------------|
-| 发展道路 | road of advance |
-
+| Chi            | Eng                               |
+|----------------|-----------------------------------|
+| 发展道路       | road of advance                   |
+| 中华民族       | the Chinese nation                |
+| 民族           | nationality                       |
+| 共同做某事     | join hands in doing sth.          |
+| 团结统一       | solidarity and unity              |
+| 民族团结       | ethnic harmony                    |
+| 民族意识       | national identity                 |
+| 空前的         | unprecedented                     |
+| 少数民族       | ethnic minorities                 |
+| 人类文明发祥地 | the cradles of human civilization |
+| 没有中断       | without letup                     |
+| 长期奋斗       | protracted struggles              |
