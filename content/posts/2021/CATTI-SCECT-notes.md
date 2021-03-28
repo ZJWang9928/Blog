@@ -648,19 +648,44 @@ In mordern times,
 **proceed from** our own national conditions  
 + 我们采取独立自主的立场和政策。  
 We decide out positions and policies from an independent approach.  
++ …… ，反映了自古以来中国人民就希望天下太平、同各国人民友好相处。  
+This is a reflection of the aspiration of the Chinese people for a peaceful world **where** people of all countries live in harmony.  
++ 更需要 ……  
+need more than ever ...  
++ 中国的发展与进步，不会对任何人构成威胁。  
+**A developing and progressing China** dose not pose a threat to anyone.  
++ 近百年来， ……  
+In the past one hundred years or so, ...  
++ 摆脱半殖民地半封建的历史境遇  
+lift themselves from their historical plight under semi-colonial and semi-feudal rule  
++ 领导中国人民实现了 ……  
+lead the Chinese people **in achieving** ...  
++ 坚定不移地实行改革开放  
+firmly press ahead with reform and open-up  
++ 中国进入了百年来发展最快最好的历史时期。  
+China has entered a period of its fastest and healthiest growth in this century.  
 
 ### 词汇积累
-| Chi            | Eng                               |
-|----------------|-----------------------------------|
-| 发展道路       | road of advance                   |
-| 中华民族       | the Chinese nation                |
-| 民族           | nationality                       |
-| 共同做某事     | join hands in doing sth.          |
-| 团结统一       | solidarity and unity              |
-| 民族团结       | ethnic harmony                    |
-| 民族意识       | national identity                 |
-| 空前的         | unprecedented                     |
-| 少数民族       | ethnic minorities                 |
-| 人类文明发祥地 | the cradles of human civilization |
-| 没有中断       | without letup                     |
-| 长期奋斗       | protracted struggles              |
+| Chi                    | Eng                                                |
+|------------------------|----------------------------------------------------|
+| 发展道路               | road of advance                                    |
+| 中华民族               | the Chinese nation                                 |
+| 民族                   | nationality                                        |
+| 共同做某事             | join hands in doing sth.                           |
+| 团结统一               | solidarity and unity                               |
+| 民族团结               | ethnic harmony                                     |
+| 民族意识               | national identity                                  |
+| 空前的                 | unprecedented                                      |
+| 少数民族               | ethnic minorities                                  |
+| 人类文明发祥地         | the cradles of human civilization                  |
+| 没有中断               | without letup                                      |
+| 长期奋斗               | protracted struggles                               |
+| 现代化建设             | mordenization / mordenization drive                |
+| 一个长期的和平国际环境 | a **long-term** international environment of peace |
+| 对外政策               | foreign policy (作为一个整体，总是单数)            |
+| 以和平为宗旨的         | peace-oriented                                     |
+| 和平共处五项原则       | the Five Principles of Peaceful Coexistence        |
+| 不称霸                 | will never seek hegemony                           |
+| …… 的坚定力量          | a **staunch** force for                            |
+| 精神力量               | moral force                                        |
+| 振兴中华               | rejuvenation of China                              |
