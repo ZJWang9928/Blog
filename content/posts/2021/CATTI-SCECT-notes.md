@@ -664,28 +664,66 @@ lead the Chinese people **in achieving** ...
 firmly press ahead with reform and open-up  
 + 中国进入了百年来发展最快最好的历史时期。  
 China has entered a period of its fastest and healthiest growth in this century.  
++ 我们进行改革开放的方向是正确的，信念是坚定的，步骤是稳妥的，方式是渐进的，取得的成就是巨大的。  
+We are going in the right direction, firm in conviction, steady in our steps and gradual in our approach when carrying out the reform and opening-up and that we have achieved tremendous successes.  
++ 全面推进改革  
+conducting a comprehensive reform  
+**注**：原文里的状语在译文里改为定语。  
++ 在经济上， ……  
+Economically, ...  
++ 加快建设 ……  
+speed up the establishment of ...  
++ 社会主义市场经济体制  
+socialist market economy  
+**注**：“体制”的意思包含在 economy 之中。  
++ 社会主义民主政治  
+socialist democracy  
++ 依法治国  
+govern the country according to law  
++ 社会主义法治国家  
+a socialist country under the rule of law  
++ 保证人民充分行使管理国家和社会事务的权力  
+ensure **the full exercise** of people's rights to govern the country and manage social affairs  
++ 要积极建设面向现代化、面向世界、面向未来的，民族的科学的大众的社会主义文化。  
+We will work hard to develop a socialist culture that is national, scientific and popular, a culture that is oriented to mordenization, to the world and to the future.  
++ 科教兴国战略  
+the strategy of rejuvenating China through science and education  
++ 归根到底 ……  
+In the final analysis, ...  
 
 ### 词汇积累
-| Chi                    | Eng                                                |
-|------------------------|----------------------------------------------------|
-| 发展道路               | road of advance                                    |
-| 中华民族               | the Chinese nation                                 |
-| 民族                   | nationality                                        |
-| 共同做某事             | join hands in doing sth.                           |
-| 团结统一               | solidarity and unity                               |
-| 民族团结               | ethnic harmony                                     |
-| 民族意识               | national identity                                  |
-| 空前的                 | unprecedented                                      |
-| 少数民族               | ethnic minorities                                  |
-| 人类文明发祥地         | the cradles of human civilization                  |
-| 没有中断               | without letup                                      |
-| 长期奋斗               | protracted struggles                               |
-| 现代化建设             | mordenization / mordenization drive                |
-| 一个长期的和平国际环境 | a **long-term** international environment of peace |
-| 对外政策               | foreign policy (作为一个整体，总是单数)            |
-| 以和平为宗旨的         | peace-oriented                                     |
-| 和平共处五项原则       | the Five Principles of Peaceful Coexistence        |
-| 不称霸                 | will never seek hegemony                           |
-| …… 的坚定力量          | a **staunch** force for                            |
-| 精神力量               | moral force                                        |
-| 振兴中华               | rejuvenation of China                              |
+| Chi                      | Eng                                                                              |
+|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 发展道路                 | road of advance                                                                  |
+| 中华民族                 | the Chinese nation                                                               |
+| 民族                     | nationality                                                                      |
+| 共同做某事               | join hands in doing sth.                                                         |
+| 团结统一                 | solidarity and unity                                                             |
+| 民族团结                 | ethnic harmony                                                                   |
+| 民族意识                 | national identity                                                                |
+| 空前的                   | unprecedented                                                                    |
+| 少数民族                 | ethnic minorities                                                                |
+| 人类文明发祥地           | the cradles of human civilization                                                |
+| 没有中断                 | without letup                                                                    |
+| 长期奋斗                 | protracted struggles                                                             |
+| 现代化建设               | mordenization / mordenization drive                                              |
+| 一个长期的和平国际环境   | a **long-term** international environment of peace                               |
+| 对外政策                 | foreign policy (作为一个整体，总是单数)                                          |
+| 以和平为宗旨的           | peace-oriented                                                                   |
+| 和平共处五项原则         | the Five Principles of Peaceful Coexistence                                      |
+| 不称霸                   | will never seek hegemony                                                         |
+| …… 的坚定力量            | a **staunch** force for                                                          |
+| 精神力量                 | moral force                                                                      |
+| 振兴中华                 | rejuvenation of China                                                            |
+| 体现                     | embodiment                                                                       |
+| 自强不息                 | constantly striving to strengthen oneself                                        |
+| 改革创新                 | change and innovation                                                            |
+| 充分证明                 | eloquently prove                                                                 |
+| 社会震动                 | social unrest                                                                    |
+| 社会生产力               | social productive forces                                                         |
+| 思想道德素质             | political and moral standards                                                    |
+| 科学文化素质             | scientific and cultural level                                                    |
+| 富强民主文明的现代化国家 | a prosperous, strong, democratic, and **cultural advanced** mordern country |
+| 不屈不挠的斗争           | dauntless struggle                                                               |
+| 民族团结                 | ethnic solidarity                                                                |
+| 世界和平与发展的崇高事业 | the **lofty course** of world peace and development                              |
