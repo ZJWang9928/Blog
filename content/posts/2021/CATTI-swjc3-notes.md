@@ -29,3 +29,12 @@ Over the past year, ...
 
 + 以习近平同志为核心的党中央  
 the Party Central Committee with Comrade Xi Jinping as its core  
+
++ 刚刚闭幕的中国全国人大会议  
+the just-concluded session of the National People's Congress  
+
++ 对 …… 作出统一规定  
+set out unified provisions on ...  
+
++ 优化财政支出结构，盘活财政存量资金，重点领域支出得到保障。坚持实施稳健的货币政策，引导金融支持实体经济。  
+We improved the composition of budgetary spending, put idle budgetary funds to use, and ensured spending in key areas. We maintained a prudent monetary policy and encouraged financial support for the real economy.  
