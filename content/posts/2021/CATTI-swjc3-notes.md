@@ -54,6 +54,15 @@ We improved the composition of budgetary spending, put idle budgetary funds to u
 + humans must be putting no more \\(CO\_{2}\\) into the atmosphere than they are taking out  
 人类必须实现二氧化碳**净零排放**  
 
++ be gaining momentum  
+势头正猛  
+
++ to reduce the air pollution that does serious harm to physical and mental health around the world  
+减少空气污染**使其不再危害全球人民的身心健康**  
+
++ increase fourfold  
+增加三倍  
+
 ### 词汇积累
 | Eng                  | Chi                |
 |----------------------|--------------------|
