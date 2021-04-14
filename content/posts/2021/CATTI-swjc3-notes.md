@@ -64,16 +64,17 @@ We improved the composition of budgetary spending, put idle budgetary funds to u
 增加三倍  
 
 ### 词汇积累
-| Eng                  | Chi                |
-|----------------------|--------------------|
-| fjords               | 峡湾               |
-| emissions-free       | 零排放的           |
-| cascading waterfalls | 奔流的瀑布         |
-| run-of-the-mill      | adj. 普遍          |
-| hyperbole            | n. 夸大其词        |
-| supercharge          | v. 增加(…… 的)负荷 |
-| tax breaks           | 减税               |
-| hydrocarbon(s)       | 烃                 |
+| Eng                  | Chi                        |
+|----------------------|----------------------------|
+| fjords               | 峡湾                       |
+| emissions-free       | 零排放的                   |
+| cascading waterfalls | 奔流的瀑布                 |
+| run-of-the-mill      | adj. 普遍                  |
+| hyperbole            | n. 夸大其词                |
+| supercharge          | v. 增加(…… 的)负荷         |
+| tax breaks           | 减税                       |
+| hydrocarbon(s)       | 烃                         |
+| procurement          | n. (尤指为政府或机构) 采购 |
 
 | Chi | Eng |
 |-----|-----|
