@@ -63,6 +63,22 @@ We improved the composition of budgetary spending, put idle budgetary funds to u
 + increase fourfold  
 增加三倍  
 
++ 不仅为东帝汶国家建设节约了大量成本，而且为当地提供了大量就业，培养了大批熟练技术工人，为东经济多元化和可持续发展做出了积极贡献。  
+Not only have they saved much infrastructure costs for Timor-Leste government, but also they created many job opportunities for the local people, **who were trained to be skilled workers**, contributing to the economic diversification and sustainable development of Timor-Leste.  
+**注**：也可以选择顺句直译，处理成带有四个动宾结构的主谓宾结构。  
+
++ 无偿为当地村庄、社区补路修桥、修葺校舍等  
+repair rural roads, bridges and schools for local villages and communities free of charge  
+
++ 希望中资企业继续发扬吃苦耐劳、务实高效的作风，遵守当地法律法规，完善环境保护措施，实施属地化经营，履行社会责任，服务当地，为东经济社会发展贡献力量。  
+I hope the Chinese companies will continue the good practice to be hardworking, down to earth and efficient in their work, abide by the local laws, improve environmental protection measures, localize their management, carry out social responsibilities to ser the local and contribute to the social and economic development of Timor-Leste.  
+
++ 当前经济下行的一个重要原因是工业增长下滑，而工业下滑主要是产业结构不适应需求变化、部分行业产能过剩严重。  
+An important reason for the current economic downturn is the slowing down of industrial growth **as** the industrial structure is forced to adapt to changing needs and some industries are afflicted by excessive industrial capacity.  
+
++ 国际产业分工格局  
+the structure of the international industrial division of labor  
+
 ### 词汇积累
 | Eng                  | Chi                        |
 |----------------------|----------------------------|
@@ -76,6 +92,13 @@ We improved the composition of budgetary spending, put idle budgetary funds to u
 | hydrocarbon(s)       | 烃                         |
 | procurement          | n. (尤指为政府或机构) 采购 |
 
-| Chi | Eng |
-|-----|-----|
-
+| Chi              | Eng                                    |
+|------------------|----------------------------------------|
+| 东帝汶           | Timor-Leste                            |
+| 基建             | infrastructure                         |
+| 务实合作         | practical cooperation                  |
+| 世界 500 强企业  | a Global Fortune 500                   |
+| 城建             | urban buildings                        |
+| 承包企业         | contractor                             |
+| 国际招投标       | the international bidding              |
+| 创新驱动发展战略 | innovation-driven development strategy |
