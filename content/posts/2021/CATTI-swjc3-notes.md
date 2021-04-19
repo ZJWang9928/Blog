@@ -102,3 +102,20 @@ the structure of the international industrial division of labor
 | 承包企业         | contractor                             |
 | 国际招投标       | the international bidding              |
 | 创新驱动发展战略 | innovation-driven development strategy |
+
+# 第二章 时政篇
+
+## 第三单元 国际环境
+
+### 译法积累
++ But that will require an urgent transformation in how we build our societies, power our cities and invest in our economies.  
+但这急需我们在建设社会、为城市供电和投资经济方面进行转变。  
+
++ We must reimagine and rebuild our world in a way that works for everyone, brings women into the leadership of the economy of the future and expands the opportunities for young people.  
+我们必须重新设想和构建我们的世界，**以使**人人都能受益，是妇女进入未来经济的领导层，并拓展年轻人的机会。  
+
+### 词汇积累
+| Eng             | Chi      |
+|-----------------|----------|
+| transit systems | 交通系统 |
+| energy grids    | 能源网   |
