@@ -114,8 +114,32 @@ the structure of the international industrial division of labor
 + We must reimagine and rebuild our world in a way that works for everyone, brings women into the leadership of the economy of the future and expands the opportunities for young people.  
 我们必须重新设想和构建我们的世界，**以使**人人都能受益，是妇女进入未来经济的领导层，并拓展年轻人的机会。  
 
++ achieving a harmonious and sustainable integration of the Belt and Road projects in their own economies and societies in accordance with national development plans, anchored in the 2020 Agenda for Sustainable Development  
+根据以《 2030 年可持续发展议程》为基础的国家发展计划，将“一带一路”项目和谐、可持续地融入本国经济和社会  
+
++ I see the Belt and Road Initiative as an important space where green priciples can be reflected in green action.  
+我认为“一带一路”倡议还提供了重要空间，从而使绿色原则可以在绿色空间中得到体现。  
+
++ Both China and the world are in the midst of profound and complex changes.  
+当前，国内外形势正在发生深刻复杂变化。  
+
++ China is still in an important period of strategic opportunity for development.  
+我国发展仍处于重要战略机遇期。  
+
++ The international division of labor is a result of the market rule of maxmizing common interests.  
+国际分工**依**“共同利益最大化”的市场规律**而形成**。  
+
 ### 词汇积累
-| Eng             | Chi      |
-|-----------------|----------|
-| transit systems | 交通系统 |
-| energy grids    | 能源网   |
+| Eng                         | Chi                |
+|-----------------------------|--------------------|
+| transit systems             | 交通系统           |
+| energy grids                | 能源网             |
+| stand ready to do           | 随时准备 ……        |
+| significant financing gap   | 巨大资金缺口       |
+| green financing instruments | 绿色融资工具       |
+| hard-won de-escalation      | 来之不易的缓和局面 |
+| policy coordination         | 政策沟通           |
+| facilities connectivity     | 设施联通           |
+| unimpeded trade             | 贸易畅通           |
+| financial integration       | 资金融通           |
+| people-to-people exchanges  | 民心相同           |
