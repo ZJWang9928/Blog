@@ -129,7 +129,17 @@ the structure of the international industrial division of labor
 + The international division of labor is a result of the market rule of maxmizing common interests.  
 国际分工**依**“共同利益最大化”的市场规律**而形成**。  
 
++ 世界面临的和平赤字、发展赤字为我们全球治理体系改革提出了新的时代课题。  
+The world is facing deficit in peace and in development, which pose new challenges to our endeavor of reforming the global governance system.  
+
++ 在争议解决问题上，中国始终以维护和平为宗旨，坚持平等相待、互商互谅，通过谈判对话解决分歧，主张国际规则由各国共同书写，维护以规则为基础的国际秩序。  
+One this issue, China always adheres to the purpose of maintaining peace, and seeks to resolve differences through negotiations and dialogue on the basis of equal treatment and mutual accommodation. We believe that the international rules should be jointly written by all countries, and we uphold the rules-based international order.  
+
++ 这也是新时代中国特色大国外交共建新型国际关系、构建人类命运共同体的重要组成部分。  
+This is also an important component of China's missions under its major country diplomacy in the new era to jointly develop a new type of international relations and build a commonunity of shared future for the mankind.  
+
 ### 词汇积累
+
 | Eng                         | Chi                |
 |-----------------------------|--------------------|
 | transit systems             | 交通系统           |
@@ -142,4 +152,13 @@ the structure of the international industrial division of labor
 | facilities connectivity     | 设施联通           |
 | unimpeded trade             | 贸易畅通           |
 | financial integration       | 资金融通           |
-| people-to-people exchanges  | 民心相同           |
+| people-to-people exchanges  | 民心相通           |
+
+| Chi                | Eng                                     |
+|--------------------|-----------------------------------------|
+| 不稳定性和不确定性 | destabilizing factors and uncertainties |
+| 动能不足           | with a weak momentum                    |
+| 经贸摩擦           | economic and trade frictions            |
+| 和平赤字           | deficit in peace                        |
+| 全球治理体系       | global governance system                |
+| 全球争议解决       | international dispute resolution        |
