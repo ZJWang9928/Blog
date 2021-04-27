@@ -138,6 +138,9 @@ One this issue, China always adheres to the purpose of maintaining peace, and se
 + 这也是新时代中国特色大国外交共建新型国际关系、构建人类命运共同体的重要组成部分。  
 This is also an important component of China's missions under its major country diplomacy in the new era to jointly develop a new type of international relations and build a commonunity of shared future for the mankind.  
 
++ 分析国际国内形势，既要看到成绩和机遇，更要看到短板和不足、困难和挑战，看到形势发展变化给我们带来的风险。  
+In analyzing the international and domestic situation, in addition to documenting our achievements and opportunities, we should also identify weak links, shortcomings, difficulties, challenges and risks as situations evolve and change.  
+
 ### 词汇积累
 
 | Eng                         | Chi                |
@@ -162,3 +165,6 @@ This is also an important component of China's missions under its major country 
 | 和平赤字           | deficit in peace                        |
 | 全球治理体系       | global governance system                |
 | 全球争议解决       | international dispute resolution        |
+| 称霸               | seek hegemony                           |
+| 时代主题           | the call of our day                     |
+| 世界多极化         | global multi-polarity                   |
