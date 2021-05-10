@@ -1,7 +1,7 @@
 ---
 title: "ACM 会议论文模板去除 ACM Reference Format 信息"
 date: 2021-04-16T18:48:00+08:00
-categories: ["Things About Latex"]
+categories: ["Things About Latex & MD"]
 tags: ["cv", "notes", "deep learning", "acm", "latex", "paperwriting"]
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "压缩图表空间以调整 Latex 版面"
 date: 2020-12-06T23:51:53+08:00
-categories: ["Things About Latex"]
+categories: ["Things About Latex & MD"]
 tags: ["cv", "latex", "paper", "notes"]
 draft: false
 ---
