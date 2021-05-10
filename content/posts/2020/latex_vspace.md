@@ -1,7 +1,7 @@
 ---
 title: "压缩图表空间以调整 Latex 版面"
 date: 2020-12-06T23:51:53+08:00
-categories: ["Alchemy Of CV"]
+categories: ["Things About Latex"]
 tags: ["cv", "latex", "paper", "notes"]
 draft: false
 ---
