@@ -20,9 +20,13 @@ draft: false
 + frame-level + clip-level 得到表征视频特征的一系列向量
 + embedding layer + LSTM 提取文本特征
 
+![Fig 1](/images/2021/PRN2/1.png)
+
 ## Attention Memory Unit (AMU)
 + AMU 以当前时间步的单词嵌入、问题信息以及视频特征作为输入
 + 主要由四种模块构成：Attention (ATT)、Channel Fusion (CF)、Memory (LSTMa)、Refine (REF)
+
+![Fig 2](/images/2021/PRN2/2.png)
 
 ### Attention (ATT)
 + 对于一个关于视频的问题，只有其中部分帧或 clip 与问题最为相关
@@ -43,8 +47,11 @@ draft: false
 
 ## 答案生成 (Answer Generation)
 + 最终得到融合后的视频特征、从 AMU 的 memory 隐状态得到的注意力历史以及从 LSTMq 隐状态得到的问题特征
++ 将粗粒度的问题特征与细粒度的单词特征结合利用
 + 用 softmax 分类器解决选择问题，三个特征乘积变换
 + 用 LSTM 生成答案，用两个隐状态对 LSTM 进行初始化，用视频特征最为输入，各个单词可以用与上一项中类似方式得到
+
+![Fig 3](/images/2021/PRN2/3.png)
 
 ## 两个 trick
 + 对于不包含在 GloVe 中的词，将所有存在的单词的词嵌入取均值作为其词嵌入

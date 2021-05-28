@@ -14,6 +14,9 @@ draft: false
 + 提出基于 dual-LSTM 的方法，结合注意力机制解决这一问题
 
 ## 三种新任务及传统任务
+
+![Fig 1](/images/2021/PRN1/1.png)
+
 + 对某一指定动作计数 (Repetition Count)
 + 给出某一动作的计数，探测该重复动作 (Repeating Action)
 + 识别状态转化 (State Transition)
@@ -22,6 +25,8 @@ draft: false
 ## 两类 QA 问题
 + Open-ended / fill-in-the-blank: 给出完整的或不完整的句子，系统需要猜出正确的词
 + Multiple choice: 选择题
+
+![Fig 2](/images/2021/PRN1/2.png)
 
 首次在视频 VQA 任务使用时域注意力。  
 
@@ -64,6 +69,8 @@ GloVe
 + Softmax loss ？ (估计文中为交叉熵损失的笔误)
 
 ## 注意力机制
+
+![Fig 3](/images/2021/PRN1/3.png)
 
 ### Spatial Attention
 + 学习一段视频中各帧的哪些区域需要被注意
