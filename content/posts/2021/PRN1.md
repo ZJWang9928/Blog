@@ -8,6 +8,8 @@ draft: false
 
 # Tgif-qa: Toward spatio-temporal reasoning in visual question answering (CVPR 2017)
 
+[开源代码传送门](https://github.com/YunseokJANG/tgif-qa)
+
 ## 三点重要贡献
 + 提出专为视频 VQA 设计的三种新任务，需要对视频的时空推断(spatio-temporal reasoning)来正确回答问题
 + 提出一个新的大规模视频 VQA 数据集 TGIF-QA
@@ -51,6 +53,7 @@ GloVe
 + 用两个双层 LSTM 分别作为视觉与文本编码器。  
 + 将视觉编码器的最后一个隐状态用作问题文本编码器的初始隐状态，从而将视觉信息 “carry over” 到文本编码器。  
 + 两个文本编码器之间隐状态传递类似。  
++ 直接用双层 LSTM 编码特征可能会遗漏关键帧信息。
 
 ## 答案解码器
 设计了三种解码器以得到回答，一种面向 MC，另外两种面向 OE。  
