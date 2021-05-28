@@ -40,6 +40,7 @@ draft: false
 
 后续各相似度矩阵的处理与[通常做法](http://jonathanwayy.xyz/2021/prn4/)类似，沿两个方向归一化得到两种注意力图，进而得到处理后的注意力特征 \\(V_{att}^{i}\\) 和 \\(Q_{att}^{i}\\)，最终整合的文本与视频特征可由所有子空间的特征求和得到 \\[Q_{att}^{f} = Q + \sum Q_{att}^{i},\\] \\[V_{att}^{f} = V + \sum V_{att}^{i}.\\]  
 
+本文使用 256-D + 512-D + 1024-D。  
 <!-- 最终，输出的各个尺度的注意力与最初的特征融合得到 weighted visual features 和 weighted word features。   -->
 
 ### 多样性学习 (Diversity Learning)
