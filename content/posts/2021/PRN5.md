@@ -51,7 +51,18 @@ draft: false
 
 ## Feature Learnable Aggregating
 
+### 手工构建特征用于视频分析的两步
++ 局部描述器提取 (local descriptor extraction)
++ 特征编码过程，一系列基于量化的方法 (quantization based method) 被设计出来，首先生成若干视觉词 (visual words) 或特征聚类中心 (feature cluster centers)，将局部描述器根据距离聚类，但由于视觉词由无监督方法生成，可能会导致不可微
+
+本文通过可微方法进行改进，最终得到两个编码特征 \\(V_{E}\\) 和 \\(Q_{E}\\)。  
+
 ## Evidence-Gating
+
+用于捕捉描述器之间的长距离关联，学习答案的先验分布，降低无关特征的权重。  
+得到的答案嵌入为 \\[A_{E} = \sigma(W\[V_{E}, Q_{E}\] + b) \circ \[V_{E}, Q_{E}\].\\]
+
+\\(\circ\\) 表示哈达玛积，\\(A_{E}\\) 用于后续的回答推断。  
 
 ## 回答推断
 与前文类似。  
