@@ -11,4 +11,3 @@ draft: false
 ## 模型高训练度带来的问题
 这类模型更倾向于捕捉浅层模式 (shallow patterns)，因而会在浅层统计量形成捷径 (creating shortcuts through surface statistics)，而非正确的系统化推理 (true systematic reasoning)。  
 
-
