@@ -1,8 +1,8 @@
 ---
 title: "炼丹杂记 -- nvidia-smi指令报错：Failed to initialize NVML 解决方案"
+date: 2021-01-22T14:27:20+08:00
 categories: ["Alchemy Of CV"]
 tags: ["cv", "notes", "deep learning", "nvidia", "nvidia-smi", "python"]
-date: 2021-01-22T14:27:20+08:00
 draft: false
 ---
 
