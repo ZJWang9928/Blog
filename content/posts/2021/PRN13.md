@@ -98,7 +98,7 @@ $$s.t.\ i \in \\{0, 1, \cdots, n-1\\},$$
 
 进而整体的多频谱通道注意力架构可以写作：  
 
-$$ms\_att = sigmoid(fc(Freq)).$$
+$$ms\\_att = sigmoid(fc(Freq)).$$
 
 本方法可以视为对只使用 GAP 的原始方法的推广。  
 
