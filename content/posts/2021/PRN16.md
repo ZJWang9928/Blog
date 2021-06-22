@@ -3,8 +3,7 @@ title: "[论文阅读笔记 -- 跨模态哈希] Deep Cross-Modal Hashing (CVPR 2
 date: 2021-06-22T16:33:39+08:00
 categories: ["Paper Reading Notes"]
 tags: ["paper reading", "cv", "notes", "cross-modal", "reid", "hashing"]
-<!-- draft: false -->
-draft: true
+draft: false
 ---
 
 # Deep Cross-Modal Hashing (CVPR 2017)
