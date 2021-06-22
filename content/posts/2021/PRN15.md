@@ -3,8 +3,7 @@ title: "[论文阅读笔记 -- 跨模态哈希] Self-Supervised Adversarial Hash
 date: 2021-06-22T10:54:41+08:00
 categories: ["Paper Reading Notes"]
 tags: ["paper reading", "cv", "notes", "cross-modal", "reid", "hashing"]
-<!-- draft: false -->
-draft: true
+draft: false
 ---
 
 # Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval (CVPR 2018)
