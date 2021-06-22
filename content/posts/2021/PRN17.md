@@ -1,10 +1,9 @@
 ---
-title: "[论文阅读笔记 -- 3D 跨模态检索] Cross-Modal Center Loss (CVPR 2021)"
+title: "[论文阅读笔记 -- 跨模态检索] Cross-Modal Center Loss (CVPR 2021)"
 date: 2021-06-22T19:53:32+08:00
 categories: ["Paper Reading Notes"]
 tags: ["paper reading", "cv", "notes", "cross-modal", "reid", "retrieval"]
-<!-- draft: false -->
-draft: true
+draft: false
 ---
 
 # Cross-Modal Center Loss for 3D Cross-Modal Retrieval (CVPR 2021)
