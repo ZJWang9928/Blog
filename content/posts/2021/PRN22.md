@@ -2,7 +2,7 @@
 title: "[论文阅读笔记 -- 对抗样本] AI-GAN: Attack-Inspired Generation of Adversarial Examples (2020)"
 date: 2021-06-26T15:10:01+08:00
 categories: ["Paper Reading Notes"]
-tags: ["paper reading", "cv", "notes", "cross-modal", "reid", "hashing"]
+tags: ["paper reading", "cv", "notes", "adversarial", "GAN", "adversarial samples"]
 draft: false
 ---
 
