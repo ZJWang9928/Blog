@@ -72,3 +72,11 @@ $$s.t. \quad x_{i} + \delta_{i} \in \mathbb{W} \quad \forall i = 1, \cdots, N$$
 第三项就是梯度正则化项。具体优化过程如下：  
 
 ![Alg 1](/images/2021/PRN27/A1.png)
+
+## 一些例子
+
+![Tab 7](/images/2021/PRN27/T7.png)
+
+![Tab 8](/images/2021/PRN27/T8.png)
+
+![Tab 9](/images/2021/PRN27/T9.png)
