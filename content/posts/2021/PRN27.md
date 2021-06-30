@@ -8,6 +8,8 @@ draft: false
 
 # Seq2Sick: Evaluating the Robustness of Sequence-to-Sequence Models with Adversarial Examples (AAAI 2020)
 
+[开源代码传送门](https://github.com/cmhcbb/Seq2Sick)
+
 ## 背景
 
 对抗攻击可用于衡量 DNN 的鲁棒性，对抗样本越容易生成则模型越健壮。  
@@ -72,6 +74,14 @@ $$s.t. \quad x_{i} + \delta_{i} \in \mathbb{W} \quad \forall i = 1, \cdots, N$$
 第三项就是梯度正则化项。具体优化过程如下：  
 
 ![Alg 1](/images/2021/PRN27/A1.png)
+
+## 单词投影相关代码
+
+![Code 1](/images/2021/PRN27/C1.png)
+
+### 扰动初始化
+
+![Code 2](/images/2021/PRN27/C2.png)
 
 ## 一些例子
 

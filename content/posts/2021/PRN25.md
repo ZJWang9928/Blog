@@ -1,6 +1,6 @@
 ---
 title: "[论文阅读笔记 -- 频域 / 图网络] Spectral Graph Attention Network (2020)"
-date: 2021-06-29T19:34:36+08:00
+date: 2021-06-28T19:34:36+08:00
 categories: ["Paper Reading Notes"]
 tags: ["paper reading", "cv", "notes", "frequency", "graph"]
 draft: false
