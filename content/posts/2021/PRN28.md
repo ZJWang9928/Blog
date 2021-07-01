@@ -1,6 +1,6 @@
 ---
 title: "[论文阅读笔记 -- 遮挡 ReID] High-Order Information Matters (CVPR 2020)"
-date: 2021-06-30T13:01:57+08:00
+date: 2021-07-01T13:01:57+08:00
 categories: ["Paper Reading Notes"]
 tags: ["paper reading", "cv", "notes", "cross-modal", "reid"]
 draft: false
