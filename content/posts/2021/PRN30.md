@@ -2,7 +2,7 @@
 title: "[论文阅读笔记 -- 注意力机制] VOLO: Vision Outlooker for Visual Recognition (2021)"
 date: 2021-07-03T16:23:02+08:00
 categories: ["Paper Reading Notes"]
-tags: ["paper reading", "cv", "notes", "adversarial", "GAN", "adversarial samples"]
+tags: ["paper reading", "cv", "notes", "attention"]
 draft: false
 ---
 
