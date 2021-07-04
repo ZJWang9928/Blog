@@ -1,12 +1,12 @@
 ---
-title: "[论文阅读笔记 -- 跨模态检索 / 图网络] Similarity Reasoning and Filtration (2021)"
+title: "[论文阅读笔记 -- 跨模态检索 / 图网络] Similarity Reasoning and Filtration (AAAI 2021)"
 date: 2021-07-03T21:00:55+08:00
 categories: ["Paper Reading Notes"]
 tags: ["paper reading", "cv", "notes", "cross-modal", "graph", "retrieval"]
 draft: false
 ---
 
-# 2101.01368 Similarity Reasoning and Filtration for Image-Text Matching (2021)
+# 2101.01368 Similarity Reasoning and Filtration for Image-Text Matching (AAAI 2021)
 
 [开源代码传送门](https://github.com/Paranioar/SGRAF)
 
