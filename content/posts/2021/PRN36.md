@@ -16,7 +16,7 @@ draft: false
 
 本文基于多层 Transformer 提出一种通用视觉语言编码器 (Universal Encoder for Vision And Language, Unicoder-VL)。  
 
-### 用到的三种预训练任务
+## 用到的三种预训练任务
 
 + Masked Language Modeling (MLM)
 + Masked Object Classification (MOC)
