@@ -38,7 +38,7 @@ $$W_{nk} = (e^{-\frac{2\pi i}{N}nk} / \sqrt{N}), \quad n,k = 0, \cdots, N-1.$$
 
 ## FNet 架构
 
-将各 Transformer 编码层中的自注意力子层替换为傅利叶子层，其对输入的 \\((sequence length, hidden dimension)\\) 嵌入做 2D DFT，两个维度各一个 1D DFT：  
+将各 Transformer 编码层中的自注意力子层替换为傅利叶子层，其对输入的 \\((sequence \ length, hidden \ dimension)\\) 嵌入做 2D DFT，两个维度各一个 1D DFT：  
 
 $$y = \mathcal{R}(\mathcal{F}\_{seq}(\mathcal{F}\_{h}(x))).$$  
 
