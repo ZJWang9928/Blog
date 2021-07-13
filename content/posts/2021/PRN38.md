@@ -42,7 +42,7 @@ $$W_{nk} = (e^{-\frac{2\pi i}{N}nk} / \sqrt{N}), \quad n,k = 0, \cdots, N-1.$$
 
 $$y = \mathcal{R}(\mathcal{F}\_{seq}(\mathcal{F}\_{h}(x))).$$  
 
-之保留实数部分，从而无需修改前向传播层来处理复数，实验发现只对最后整体的变换结果取实部得到的结果最好，即  
+只保留实数部分，从而无需修改前向传播层来处理复数，实验发现只对最后整体的变换结果取实部得到的结果最好，即  
 
 $$y = \mathcal{R}(\mathcal{F}\_{seq}(\mathcal{R}(\mathcal{F}\_{h}(x))))$$  
 
