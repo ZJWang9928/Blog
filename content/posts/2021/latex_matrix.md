@@ -6,7 +6,7 @@ tags: ["cv", "notes", "deep learning", "latex", "paperwriting"]
 draft: false
 ---
 
-记录一下 Latex 中实现矩阵的集中方式。  
+记录一下 Latex 中实现矩阵的几种方式。  
 
 ### 1. 无括号
 
