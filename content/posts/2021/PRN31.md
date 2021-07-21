@@ -102,7 +102,7 @@ $$s_{f} = \sum_{s_{p} \in \mathcal{N}} \beta_{p}s_{p}.$$
 
 分别训练 SGR 和 SAF，推断时用两个模块输出相似度的均值。  
 
-![Tab 5](/images/2021/PRN31/5.png)
+![Tab 5](/images/2021/PRN31/T5.png)
 
 ## 模块可视化
 
