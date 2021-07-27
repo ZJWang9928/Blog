@@ -50,7 +50,7 @@ $$\alpha_{e, i} = \frac{exp(W_{e}w_{i})}{\sum_{j=1}^N exp(W_{e}w_{j})}.$$
 + 公共变换矩阵 \\(W_{t} \in \mathbb{R}^{D \times D}\\) 由所有关系类型共享
 + 角色嵌入矩阵 \\(W_{r} \in \mathbb{R}^{D \times K}\\)
 
-初始节点嵌入为 \\(g_{i} \in \\{g_{e}, g_{a}, g_{o}\\}\\)，在第一个 GCN 层与其对应予以角色相乘：  
+初始节点嵌入为 \\(g_{i} \in \\{g_{e}, g_{a}, g_{o}\\}\\)，在第一个 GCN 层与其对应语义角色相乘：  
 
 $$g_{i}^0 = g_{i} \odot W_{r}r_{ij},$$  
 
