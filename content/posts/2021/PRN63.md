@@ -1,12 +1,12 @@
 ---
-title: "[论文阅读笔记 -- 跨模态检索] TIED: A Cycle Consistent Encoder-Decoder Model (CVPR 2021)"
+title: "[论文阅读笔记 -- 跨模态检索] TIED: A Cycle Consistent Encoder-Decoder Model (CVPRW 2021)"
 date: 2021-07-29T11:27:32+08:00
 categories: ["Paper Reading Notes"]
 tags: ["paper reading", "cv", "notes", "attention", "transformer", "cross-modal", "retrieval"]
 draft: false
 ---
 
-# TIED: A Cycle Consistent Encoder-Decoder Model for Text-to-Image Retrieval (CVPR 2021)
+# TIED: A Cycle Consistent Encoder-Decoder Model for Text-to-Image Retrieval (CVPRW 2021)
 
 ![Fig 1](/images/2021/PRN63/1.png)
 
