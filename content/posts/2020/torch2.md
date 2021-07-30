@@ -3,7 +3,7 @@ title: "Pytorch部分加载预训练ResNet-50模型作为Backbone"
 date: 2020-01-28T00:08:03+08:00
 categories: ["Alchemy Of CV"]
 tags: ["cv", "pytorch", "python"]
-draft: false
+draft: true
 ---
 
 在写CV实(lian)验(dan)代码的时，经常需要使用预训练好的CNN模型作为自己模型的骨架网络(Backbone)，其中[VGG-16](https://godlovesjonny.github.io/2020/torch1/)和[ResNet-50](https://godlovesjonny.github.io/2020/torch2/)是较为常用的两种Backbone。   
