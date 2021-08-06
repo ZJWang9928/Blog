@@ -8,6 +8,8 @@ draft: false
 
 # 2009.14082 Attentional Feature Fusion (WACV 2021)
 
+[开源代码传送门](https://github.com/YimianDai/open-aff)
+
 ## 概述
 
 本文研究特征融合 (feature fusion)，提出注意力特征融合模块 (attentional feature fusion module, AFF)。  
