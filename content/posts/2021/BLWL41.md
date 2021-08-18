@@ -25,7 +25,7 @@ draft: false
 ### 3. 执行下列命令进行备份
 
 ```
-> tar -czvpf ./backup_dir/manjaro_bk.tar.gz --exclude=/sys --exclude=/lost+found --exclude=/dev --exclude=/media --exclude=/mnt --exclude=/proc /
+> tar -czvpf ./backup_dir/manjaro_bk.tar.gz --exclude=/sys --exclude=/lost+found --exclude=/dev --exclude=/media --exclude=/mnt --exclude=/proc --exclude=./backup_dir /
 ```
 
 `--exclude=...` 指定打包时需要排除在外的文件或目录。  
@@ -33,7 +33,7 @@ draft: false
 ### 4. 初次备份成功后可以定期通过如下命令进行增量备份
 
 ```
-> tar -uzvpf ./backup_dir/manjaro_bk.tar.gz --exclude=/sys --exclude=/lost+found --exclude=/dev --exclude=/media --exclude=/mnt --exclude=/proc /
+> tar -uzvpf ./backup_dir/manjaro_bk.tar.gz --exclude=/sys --exclude=/lost+found --exclude=/dev --exclude=/media --exclude=/mnt --exclude=/proc --exclude=./backup_dir /
 ```
 
 ### 5. 通过如下命令还原备份
