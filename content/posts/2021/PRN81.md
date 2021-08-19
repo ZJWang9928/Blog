@@ -86,3 +86,8 @@ soft cross-modal contrastive loss + KL 散度 + uniformity loss
 ### 衡量面向实例的不确定性
 
 计算协方差矩阵的行列式或 \\(\sigma's\\) 的几何平均数得到。  
+
+## 测试时的变体
+
++ 基于采样的变体
++ 不基于采样的变体
