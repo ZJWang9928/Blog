@@ -3,7 +3,7 @@ title: "[论文阅读笔记 -- 跨模态检索] HAL: Mitigating Visual Semantic 
 date: 2021-08-26T12:55:43+08:00
 categories: ["Paper Reading Notes"]
 tags: ["paper reading", "cv", "notes", "retrieval", "cross-modal", "attention", "hubness"]
-draft: true
+draft: false
 ---
 
 # HAL: Improved Text-Image Matching by Mitigating Visual Semantic Hubs (AAAI 2020)
