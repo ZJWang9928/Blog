@@ -1,6 +1,6 @@
 ---
 title: "炼丹杂记 -- 枢纽点问题 (Hubness Problem)"
-date: 2021-08-25T21:08:27+08:00
+date: 2021-08-25T18:08:27+08:00
 categories: ["Alchemy Of CV"]
 tags: ["cv", "notes", "deep learning", "hubness"]
 draft: false
