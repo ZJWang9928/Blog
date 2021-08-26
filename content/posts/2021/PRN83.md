@@ -35,3 +35,29 @@ draft: false
 二者均同时之考察一个匹配对和一个适配对。  
 
 ## The Hubness-Aware Loss (HAL)
+
+### Neighborhood Component Analysis (NCA)
+
+在分类任务中 NCA 定义为  
+
+$$\mathcal{L}\_{NCA} = \sum_{i=1}^{N} (log \sum_{y_{i} = y_{j}} e^{S_{ij}} - log \sum_{k=1}^{N} e^{S_{ik}}),$$
+
+其中 \\(N\\) 是样本数，\\(S\\) 表示余弦相似度。  
+
+对于一个样本 \\(S_{ij}\\)，当它与搜索空间中多个样本是近邻，即是一个 hub 时，其作为正样本的权重降低，作为负样本的权重升高，意味着该样本在训练中会受到更多注意。  
+
+### Global Weighting through Memory Bank (MB)
+
+在每个 epoch 的最初，计算整个训练集样本的嵌入，构建 memory bank \\(M\\)，接着利用 mini-batch 和 memory bank 之间的关系为 batch 中各样本计算一个全局权重，用于强调 hub 并将权重传到接下来的 local weighting 阶段。  
+
+定义一个函数 \\(kNN(x, M, k)\\) 返回点集 \\(M\\) 中 \\(x\\) 基于 \\(l_{2}\\) 距离的 \\(k\\) 近邻，HAL 的 global weighting 定义如下：  
+
+![Eq 1](/images/2021/PRN83/Eq1.png)
+
+其中 \\(K_{1} = kNN(i, M_{T} \backslash \\{t\\}, k), K_{2} = kNN(t, M_{I} \backslash \\{i\\}, k)\\)。  
+
+### Local Weighting through Loss Function
+
+$$\mathcal{L}\_{HAL} = \frac{1}{N} \sum_{i=1}^{N} (\frac{1}{\gamma} log(1 + \sum_{m \ne i} e^{\gamma W_{mi}(S_{mi} - \epsilon)}) + \frac{1}{\gamma} log(1 + \sum_{n \ne i} e^{\gamma W_{in}(S_{in} - \epsilon)}) - log(1 + W_{ii} S_{ii})),$$
+
+其中 \\(\epsilon\\) 是 margin 值。  
