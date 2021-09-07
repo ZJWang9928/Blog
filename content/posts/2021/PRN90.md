@@ -3,7 +3,7 @@ title: "[论文阅读笔记 -- 跨模态检索] Unsupervised Cross-modal Retriev
 date: 2021-09-07T14:45:21+08:00
 categories: ["Paper Reading Notes"]
 tags: ["paper reading", "cv", "notes", "retrieval", "cross-modal", "attention", "unsupervised"]
-draft: true
+draft: false
 ---
 
 # Unsupervised Cross-modal Retrieval through Adversarial Learning (ICME 2017)
