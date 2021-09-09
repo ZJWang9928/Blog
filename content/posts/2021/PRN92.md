@@ -42,6 +42,12 @@ $$B^gt = sign(f(f^t; \theta_{gt})).$$
 
 $$S_{ij} = C_{ij} \cdot D_{ij} = ((\widetilde{Z}\_{i\*})^T \widetilde{Z}\_{j\*}) \cdot exp(-\sqrt{||\widetilde{Z}\_{i\*} - \widetilde{Z}\_{j\*}||\_{2}}/\rho).$$
 
+也用作图卷积中的邻接矩阵。  
+
+## 损失函数
+
+![Loss](/images/2021/PRN92/Loss.png)
+
 ## 具体算法
 
 ![Alg 1](/images/2021/PRN92/A1.png)
