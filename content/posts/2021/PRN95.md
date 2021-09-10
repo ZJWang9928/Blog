@@ -2,7 +2,7 @@
 title: "[论文阅读笔记 -- ReID] PCNET: Parallelly Conquer Large Variance of Person ReId (ICIP 2021)"
 date: 2021-09-10T13:22:48+08:00
 categories: ["Paper Reading Notes"]
-tags: ["paper reading", "cv", "notes", "3D", "reid", "retrieval"]
+tags: ["paper reading", "cv", "notes", "attention", "reid", "retrieval"]
 draft: false
 ---
 
