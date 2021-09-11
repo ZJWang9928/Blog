@@ -1,6 +1,6 @@
 ---
 title: "[论文阅读笔记 -- ReID] Parameter-Efficient Person Re-identification in the 3D Space (2020)"
-date: 2021-09-10T15:44:37+08:00
+date: 2021-09-11T14:44:37+08:00
 categories: ["Paper Reading Notes"]
 tags: ["paper reading", "cv", "notes", "3D", "reid", "retrieval"]
 draft: false
@@ -30,4 +30,32 @@ draft: false
 
 ### 动态图卷积
 
-采用 KNN 图建模邻居点之间的关系，有向并有自环。
+采用 KNN 图建模邻居点之间的关系，有向并有自环。K 近邻的选择取决于顶点的值，而非初始的输入顺序。  
+
+采用动态图 (dynamic graph)，每个下采样层后重构图。为了学习图的拓扑结构，采用基于有边相连的邻居点的局部卷积层：  
+
+$$x_{i}^{'} = \sum_{j: (i, j) \in \mathcal{E}, j \ne i} (\theta_{i} x_{i} + \theta_{j} x_{j}).$$
+
+与传统卷积的主要差异在于邻居集合的定义，本文结合了两种选取邻居的方式：  
++ position similarity
++ feature similarity
+
+只基于 3D 坐标相似度则动态图卷积等价于传统的 2D CNN，而纯基于外观特征来构建则等价于 non-local 自注意力。  
+
+利用动态图卷积函数构建本文的基本模块 —— 全尺度模块 (Omni-scale Module)。  
+
+### 全尺度模块
+
+核心是两个 cross-point 函数，即动态图卷积和各分支中的最大组池化层。  
+
+![Fig 4](/images/2021/PRN96/4.png)
+
+## 数据局限性
+
+2D 到 3D 的映射会带来信息损失，本文的解决办法是引入 2D 背景，将相应像素投影到 XY 平面。  
+
+![Fig 5](/images/2021/PRN96/5.png)
+
+## 检索结果示例
+
+![Fig 6](/images/2021/PRN96/6.png)
