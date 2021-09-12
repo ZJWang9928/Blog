@@ -2,7 +2,7 @@
 title: "炼丹杂记 -- Python 2 安装 opencv-python 包出错解决办法"
 date: 2021-09-11T21:46:05+08:00
 categories: ["Alchemy Of CV"]
-tags: ["cv", "notes", "deep learning", "python2", "python", "opencv", "linux"]
+tags: ["cv", "notes", "deep learning", "python2", "python", "opencv", "linux", "windows", "pip"]
 draft: false
 ---
 
