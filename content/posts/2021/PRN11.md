@@ -2,7 +2,7 @@
 title: "[论文阅读笔记 -- 跨模态检索] TIPCB: A Simple but Effective Part-based Convolutional Baseline"
 date: 2021-06-15T13:42:56+08:00
 categories: ["Paper Reading Notes"]
-tags: ["paper reading", "cv", "notes", "vqa"]
+tags: ["paper reading", "cv", "notes", "cross-modal", "retrieval", "ReID"]
 draft: false
 ---
 
