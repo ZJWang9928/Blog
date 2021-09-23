@@ -1,6 +1,6 @@
 ---
 title: "[论文阅读笔记 -- 图像标注] Unsupervised Image Captioning (CVPR 2019)"
-date: 2021-09-23T13:14:16+08:00
+date: 2021-09-22T13:14:16+08:00
 categories: ["Paper Reading Notes"]
 tags: ["paper reading", "cv", "notes", "cross-modal", "image captioning", "unsupervised"]
 draft: false
