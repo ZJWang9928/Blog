@@ -1,6 +1,6 @@
 ---
 title: "Latex 旋转文字方向"
-date: 2021-10-29T12:34:42+08:00
+date: 2021-10-28T12:34:42+08:00
 categories: ["Things About Latex & MD"]
 tags: ["cv", "notes", "deep learning", "acm", "latex", "paperwriting"]
 draft: false
