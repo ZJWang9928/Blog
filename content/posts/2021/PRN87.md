@@ -24,9 +24,11 @@ FD 模块由两个阶段组成：
 + 频率分解阶段
 + 频率增强阶段
 
-频率分解阶段将 LR 输入分解为高/中/低频成分，频率强化阶段强化各表征。  
+频率分解阶段将低分辨率输入分解为高/中/低频成分，频率强化阶段强化各表征。  
 
 ### 频率分解阶段
+
+在模仿小波变换机制的同时避免关键信息的损失，操作类似于 octave convolution (OctConv)。  
 
 $$f_{l} = Conv\downarrow_{2}(Conv\downarrow_{2}(I)),$$
 $$f_{m} = Conv\downarrow_{2}(I) - Conv\downarrow_{2}(Conv\downarrow_{2}(I))\uparrow_{2},$$
@@ -36,7 +38,7 @@ $$f_{h} = Conv(I) - Conv\downarrow_{2}(I)\uparrow_{2},$$
 
 ### 频率增强阶段
 
-用到 Frequency Enhancement Unit (FEU)。  
+用到 Frequency Enhancement Unit (FEU)，基于 GRDB 模块构建。  
 
 $$\widetilde{f}\_{l} = Enhance(f_{l}),$$
 $$\widetilde{f}\_{m} = Enhance(f_{m}, \widetilde{f}\_{l}),$$
@@ -47,5 +49,7 @@ $$\widetilde{f}\_{h} = Enhance(f_{h}, \widetilde{f}\_{m}, \widetilde{f}\_{l}),$$
 ![Fig 3](/images/2021/PRN87/3.png)
 
 ## 区域自适应频率聚合模块 (Region-adaptive Frequency Aggregation Module, RFA)
+
+为不同区域自适应地聚合全频率成分，结合动态卷积和空间卷积。  
 
 ![Fig 4](/images/2021/PRN87/4.png)
