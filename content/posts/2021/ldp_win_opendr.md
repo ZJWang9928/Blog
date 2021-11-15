@@ -27,4 +27,4 @@ pip install glfw
 > python setup.py install
 ```
 
-不出意外的话要改已经安装成功了。  
+不出意外的话应该已经安装成功了。  
