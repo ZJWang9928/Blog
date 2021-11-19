@@ -1,5 +1,5 @@
 ---
-title: "BLWL[7] Manjaro KDE画面撕裂问题解决方案" 
+title: "BLWL[7] Manjaro KDE 画面撕裂问题解决方案" 
 date: 2020-01-23T22:29:58+08:00
 categories: ["Better Life With Linux"]
 tags: ["Manjaro", "Linux"]
@@ -23,7 +23,7 @@ XFCE 倒确实顺风顺水没出什么幺蛾子，但是用习惯了 KDE 的华�
 		# return mhwd.run()
 		return None	# 把上一行注释掉，加上这一行
 
-然后点击 **Launch Installer **开始安装  
+然后点击 **Launch Installer** 开始安装  
 安装完成重启后进入系统，发现问题已经解决   
 独显真是双刃剑  
 可能机子不一样碰到的问题也不一样，祝大家成功排错早日用上 Manjaro  
