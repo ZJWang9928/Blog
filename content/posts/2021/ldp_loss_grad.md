@@ -1,6 +1,6 @@
 ---
 title: "炼丹杂记 -- Python 报错 RuntimeError: ... is at version 2; expected version 1 ... 的一种解决办法"
-date: 2021-12-15T17:35:03+08:00
+date: 2021-12-12T17:35:03+08:00
 categories: ["Alchemy Of CV"]
 tags: ["cv", "notes", "deep learning", "python", "pytorch", "linux", "cuda"]
 draft: false

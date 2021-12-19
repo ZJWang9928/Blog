@@ -1,6 +1,6 @@
 ---
 title: "炼丹杂记 -- PyTorch 报错 Got 3 and 1 in dimension 1 的一种解决办法"
-date: 2021-12-16T17:34:51+08:00
+date: 2021-12-13T17:34:51+08:00
 categories: ["Alchemy Of CV"]
 tags: ["cv", "notes", "deep learning", "pytorch", "coding", "python"]
 draft: false

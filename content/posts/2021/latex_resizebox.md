@@ -1,6 +1,6 @@
 ---
 title: "Latex 调整表格宽度与高度"
-date: 2021-12-13T12:01:57+08:00
+date: 2021-12-09T12:01:57+08:00
 categories: ["Things About Latex & MD"]
 tags: ["cv", "notes", "deep learning", "latex", "paperwriting"]
 draft: false
