@@ -49,7 +49,7 @@ preserveTaxonomyNames = true
 
 [params]
     since = 2020
-    author = "Jonathan Wang"                          # Author's name
+    author = "Zijie Wang"                          # Author's name
     avatar = "/images/me/avatar.jpg"           # Author's avatar
     subtitle = "nuqneH."                  # Subtitle
     cdn_url = ""           # Base CDN URL
